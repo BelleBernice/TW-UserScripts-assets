@@ -1,0 +1,5956 @@
+{
+	"set_goodnight": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_meischdas": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_snowi": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_akoya": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_dark_templar": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_giony4you": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_matsacolthan": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_multi_account": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_orichyto": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_ilpresidento": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_stelladelwest": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_merlin": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_svetlanaili": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_lucabadoer": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_luckyday": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_texasladys": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_meta": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_hassan": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_dorafix": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_lordlamar": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_txankete": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_chinski": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_xque69": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_montxi": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_gogoboom": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_sar_pepita": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_r0mpehues0s": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_damed": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_flopsinchen": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_kolac015": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_deanie_obanion": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_mrs_dreamer": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_wolfskin": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_childerich": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_killstreak1": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_olga": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_jerznero": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_gobnit": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_rambo": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_volka": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_rompehuesos": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_agetn_pinky": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_agent_brain": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_ninja123": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_veteran_horse": {
+		"event": "outgame",
+		"year": 2014,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"fireworker_set": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"tw_times_set": {
+		"event": "outgame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"wooden_magician_set": {
+		"event": "shop",
+		"year": 2012,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"curling_set_1": {
+		"event": "sale",
+		"year": 2021,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"curling_set_2": {
+		"event": "sale",
+		"year": 2021,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_free_to_use_dummy": {
+		"event": "ingame",
+		"year": 2021,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"legendary_set_1": {
+		"event": "ingame",
+		"year": 2021,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"legendary_set_2": {
+		"event": "ingame",
+		"year": 2021,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_duelist": {
+		"event": "xmas",
+		"year": 2012,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_fort": {
+		"event": "xmas",
+		"year": 2012,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_fortunehunter": {
+		"event": "xmas",
+		"year": 2012,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_duelist_gun": {
+		"event": "xmas",
+		"year": 2012,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_fort_gun": {
+		"event": "xmas",
+		"year": 2012,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_fortunehunter_gun": {
+		"event": "xmas",
+		"year": 2012,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_meleeduelist": {
+		"event": "easter",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_rangedduelist": {
+		"event": "easter",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_proworker": {
+		"event": "easter",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_meleeduelist_horse": {
+		"event": "easter",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_rangedduelist_horse": {
+		"event": "easter",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_proworker_horse": {
+		"event": "easter",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_independence_1": {
+		"event": "independence",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_independence_2": {
+		"event": "independence",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_independence_3": {
+		"event": "independence",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_independence_gun_1": {
+		"event": "independence",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_independence_gun_2": {
+		"event": "independence",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_independence_gun_3": {
+		"event": "independence",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_octoberfest_4": {
+		"event": "oktoberfest",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_octoberfest_3": {
+		"event": "oktoberfest",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_octoberfest_2": {
+		"event": "oktoberfest",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_octoberfest_1": {
+		"event": "oktoberfest",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_octoberfest_gun_3": {
+		"event": "oktoberfest",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_octoberfest_gun_2": {
+		"event": "oktoberfest",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_octoberfest_gun_1": {
+		"event": "oktoberfest",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_octoberfest_gun_winner": {
+		"event": "oktoberfest",
+		"year": 2013,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_shop_soldier": {
+		"event": "shop",
+		"year": 2013,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_shop_work": {
+		"event": "shop",
+		"year": 2013,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_shop_duel": {
+		"event": "shop",
+		"year": 2013,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_shop_adventure": {
+		"event": "shop",
+		"year": 2013,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_shop_high": {
+		"event": "shop",
+		"year": 2013,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_shop_mid": {
+		"event": "shop",
+		"year": 2013,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_shop_low": {
+		"event": "shop",
+		"year": 2013,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"bubby_set": {
+		"event": "shop",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_dancer": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_farmer": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_gentleman": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_indian": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_mexican": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_pilgrim_male": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_pilgrim_female": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_quackery": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_sleeper": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"season_set": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_walker": {
+		"event": "ingame",
+		"year": 2012,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"gold_set": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"greenhorn_set": {
+		"event": "ingame",
+		"year": 2012,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"collector_set": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_party": {
+		"event": "ingame",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_parade": {
+		"event": "ingame",
+		"year": 0,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"green_set_2021": {
+		"event": "ingame",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"fancy_set_2021": {
+		"event": "ingame",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"malachite_set_1": {
+		"event": "outgame",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_st_patrick": {
+		"event": "otherevent",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"instance_set_1": {
+		"event": "adventures",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_veteran_2017_1": {
+		"event": "adventures",
+		"year": 2017,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_veteran_animal_cook": {
+		"event": "adventures",
+		"year": 2017,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_xmas2013_cloth": {
+		"event": "xmas",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_xmas2013_tool": {
+		"event": "xmas",
+		"year": 2013,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_dedmoroz_2016_weapon": {
+		"event": "xmas",
+		"year": 2016,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_dedmoroz_2016_animal": {
+		"event": "xmas",
+		"year": 2016,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_dedmoroz_2016": {
+		"event": "xmas",
+		"year": 2016,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"harvets_set_2021_1": {
+		"event": "ingame",
+		"year": 2021,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_fair": {
+		"event": "fair",
+		"year": 2013,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_soap": {
+		"event": "shop",
+		"year": 2013,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"labor_day": {
+		"event": "ingame",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_cupid": {
+		"event": "shop",
+		"year": 2013,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"bunny_set": {
+		"event": "shop",
+		"year": 2012,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_colcord": {
+		"event": "sale",
+		"year": 2016,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_wrightbrothers": {
+		"event": "sale",
+		"year": 2016,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_wright_brothers_clothes": {
+		"event": "sale",
+		"year": 2017,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_prisonbrothers_august_2017": {
+		"event": "sale",
+		"year": 2017,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_prisonbrothers_august_2017_animal": {
+		"event": "sale",
+		"year": 2017,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_carnival_2018_1": {
+		"event": "otherevent",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_carnival_2018_2": {
+		"event": "otherevent",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_achievement_set": {
+		"event": "ingame",
+		"year": 2018,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"2018_10th_set_1": {
+		"event": "outgame",
+		"year": 2018,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"2018_10th_set_2": {
+		"event": "outgame",
+		"year": 2018,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"2018_10th_set_3": {
+		"event": "outgame",
+		"year": 2018,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"2018_soccer_event": {
+		"event": "otherevent",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_doldenset": {
+		"event": "ingame",
+		"year": 2018,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"gold_rush_animal": {
+		"event": "outgame",
+		"year": 2018,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"gold_rush_clothes": {
+		"event": "outgame",
+		"year": 2018,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"gold_rush_weapons": {
+		"event": "outgame",
+		"year": 2018,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"chef_set_1": {
+		"event": "sale",
+		"year": 2018,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"chef_set_2": {
+		"event": "sale",
+		"year": 2018,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"community_events_set": {
+		"event": "otherevent",
+		"year": 2018,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"lucille_animal_set": {
+		"event": "sale",
+		"year": 2018,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"lucille_weapon_set": {
+		"event": "sale",
+		"year": 2018,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"black_friday_set": {
+		"event": "blackfriday",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"spring_1_2019": {
+		"event": "sale",
+		"year": 2019,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"spring_2_2019": {
+		"event": "sale",
+		"year": 2019,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"summer_spirit": {
+		"event": "sale",
+		"year": 2019,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"western_friday_weapon_set": {
+		"event": "blackfriday",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"western_friday_horse_set": {
+		"event": "blackfriday",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"firefighter_set_1": {
+		"event": "sale",
+		"year": 2020,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"firefighter_set_2": {
+		"event": "sale",
+		"year": 2020,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"west_fun_animal_set": {
+		"event": "ingame",
+		"year": 2020,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"fan_collector_set": {
+		"event": "ingame",
+		"year": 2020,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"unique_rare_set": {
+		"event": "outgame",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"harvets_2021_set_1": {
+		"event": "otherevent",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"harvester_set_animal": {
+		"event": "sale",
+		"year": 2020,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"harvester_set_clothing": {
+		"event": "sale",
+		"year": 2020,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"harvester_set_weapon": {
+		"event": "sale",
+		"year": 2020,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_halloween": {
+		"event": "ingame",
+		"year": 2020,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"creativity_set": {
+		"event": "ingame",
+		"year": 2020,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"creative_set": {
+		"event": "outgame",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"birthay_set_2021": {
+		"event": "outgame",
+		"year": 2021,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_halloween_clown": {
+		"event": "sale",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"15_b_day_set_weapon": {
+		"event": "outgame",
+		"year": 2023,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"15_b_day_set_animal": {
+		"event": "outgame",
+		"year": 2023,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"15_b_day_set": {
+		"event": "outgame",
+		"year": 2023,
+		"source": "manual",
+		"locked": true,
+		"needsReview": false
+	},
+	"set_independence_4": {
+		"event": "independence",
+		"year": 2013,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_independence_gun_winner": {
+		"event": "independence",
+		"year": 2013,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_valentin_2014": {
+		"event": "valentine",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_valentin_gun_2014": {
+		"event": "valentine",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_leveling_valentin_2014": {
+		"event": "valentine",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2014_1": {
+		"event": "easter",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2014_2": {
+		"event": "easter",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2014_3": {
+		"event": "easter",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2014_ranking": {
+		"event": "easter",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2014_weapon_1": {
+		"event": "easter",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2014_weapon_2": {
+		"event": "easter",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2014_weapon_3": {
+		"event": "easter",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2014_weapon_ranking_winner": {
+		"event": "easter",
+		"year": 2014,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2014_1": {
+		"event": "independence",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2014_animal_1": {
+		"event": "independence",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2014_2": {
+		"event": "independence",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2014_animal_2": {
+		"event": "independence",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2014_3": {
+		"event": "independence",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2014_animal_3": {
+		"event": "independence",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2014_ranking": {
+		"event": "independence",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2014_weapon_ranking_winner": {
+		"event": "independence",
+		"year": 2014,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_octoberfest_2014_1": {
+		"event": "oktoberfest",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_october_2014_animal_1": {
+		"event": "oktoberfest",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_octoberfest_2014_2": {
+		"event": "oktoberfest",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_october_2014_animal_2": {
+		"event": "oktoberfest",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_octoberfest_2014_3": {
+		"event": "oktoberfest",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_october_2014_animal_3": {
+		"event": "oktoberfest",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_octoberfest_2014_ranking": {
+		"event": "oktoberfest",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_octoberfest_2014_weapon_ranking_winner": {
+		"event": "oktoberfest",
+		"year": 2014,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_speedworld_2014": {
+		"event": "outgame",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dayofthedead_2014_1": {
+		"event": "dotd",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dayofthedead_2014_2": {
+		"event": "dotd",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dayofthedead_2014_3": {
+		"event": "dotd",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dayofthedead_2014_animal_3": {
+		"event": "dotd",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dayofthedead_2014_weapon_3": {
+		"event": "dotd",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dayofthedead_2014_4": {
+		"event": "dotd",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dayofthedead_2014_animal_4": {
+		"event": "dotd",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dayofthedead_2014_weapon_4": {
+		"event": "dotd",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_christmas_2014": {
+		"event": "xmas",
+		"year": 2014,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_valentinesday_2015_1": {
+		"event": "valentine",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_valentinesday_2015_2": {
+		"event": "valentine",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2015_1": {
+		"event": "easter",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2015_2": {
+		"event": "easter",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2015_3": {
+		"event": "easter",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2015_4": {
+		"event": "easter",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2015_5": {
+		"event": "easter",
+		"year": 2015,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2015_1": {
+		"event": "independence",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2015_animal_1": {
+		"event": "independence",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2015_2": {
+		"event": "independence",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2015_animal_2": {
+		"event": "independence",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2015_3": {
+		"event": "independence",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2015_animal_3": {
+		"event": "independence",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2015_ranking": {
+		"event": "independence",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2015_weapon_ranking_winner": {
+		"event": "independence",
+		"year": 2015,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_october_2015_1": {
+		"event": "oktoberfest",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_october_2015_2": {
+		"event": "oktoberfest",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_october_2015_1_weapon": {
+		"event": "oktoberfest",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_october_2015_2_weapon": {
+		"event": "oktoberfest",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_october_2015_3": {
+		"event": "oktoberfest",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_october_2015_3_weapon": {
+		"event": "oktoberfest",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_october_2015_ranking": {
+		"event": "oktoberfest",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_october_2015_winner": {
+		"event": "oktoberfest",
+		"year": 2015,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2015_1": {
+		"event": "dotd",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2015_2_weapon": {
+		"event": "dotd",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2015_3_weapon": {
+		"event": "dotd",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2015_2_animal": {
+		"event": "dotd",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2015_3_animal": {
+		"event": "dotd",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2015_2": {
+		"event": "dotd",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2015_3": {
+		"event": "dotd",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2015_1_weapon": {
+		"event": "dotd",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_xmas2015_clothing": {
+		"event": "outgame",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"xmas2015_horse": {
+		"event": "xmas",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_xmas2015_clothes": {
+		"event": "xmas",
+		"year": 2015,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_valentine_2016": {
+		"event": "valentine",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_valentine_2016_wof": {
+		"event": "valentine",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_valentine_2016_horse": {
+		"event": "valentine",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2016_1": {
+		"event": "easter",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2016_2": {
+		"event": "easter",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2016_3": {
+		"event": "easter",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2016_4": {
+		"event": "easter",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2016_1w": {
+		"event": "easter",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2016_2w": {
+		"event": "easter",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2016_3w": {
+		"event": "easter",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2016_5w": {
+		"event": "easter",
+		"year": 2016,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_sale_2016_1": {
+		"event": "sale",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2016_1": {
+		"event": "independence",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2016_2": {
+		"event": "independence",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2016_3": {
+		"event": "independence",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2016_4": {
+		"event": "independence",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_4july_2016_5": {
+		"event": "independence",
+		"year": 2016,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2016_1": {
+		"event": "oktoberfest",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2016_1_weapon": {
+		"event": "oktoberfest",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2016_2": {
+		"event": "oktoberfest",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2016_2_weapon": {
+		"event": "oktoberfest",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2016_3": {
+		"event": "oktoberfest",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2016_3_weapon": {
+		"event": "oktoberfest",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2016_4": {
+		"event": "oktoberfest",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2016_5": {
+		"event": "oktoberfest",
+		"year": 2016,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dodt_2016_1": {
+		"event": "dotd",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2016_1_weapon": {
+		"event": "dotd",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2016_2": {
+		"event": "dotd",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2016_2_animal": {
+		"event": "dotd",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2016_2_weapon": {
+		"event": "dotd",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2016_3": {
+		"event": "dotd",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2016_3_animal": {
+		"event": "dotd",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dotd_2016_3_weapon": {
+		"event": "dotd",
+		"year": 2016,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_valentine_2017_1": {
+		"event": "valentine",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_valentine_2017_2": {
+		"event": "valentine",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_valentine_2017_3": {
+		"event": "valentine",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2017_clothes_1": {
+		"event": "easter",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2017_weapons_1": {
+		"event": "easter",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2017_weapons_2": {
+		"event": "easter",
+		"year": 2017,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_clothes_3": {
+		"event": "easter",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2017_weapons_3": {
+		"event": "easter",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2017_4": {
+		"event": "easter",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2017_clothes_5": {
+		"event": "easter",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_easter_2017_weapons_5": {
+		"event": "easter",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"vanity_sale_football_2017": {
+		"event": "sale",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_package_sale_2017": {
+		"event": "sale",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_independence_2017_1": {
+		"event": "independence",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_independence_2017_1_animal": {
+		"event": "independence",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_independence_2017_2": {
+		"event": "independence",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_independence_2017_2_animal": {
+		"event": "independence",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_independence_2017_3": {
+		"event": "independence",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_independence_2017_3_animal": {
+		"event": "independence",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_independence_2017_4": {
+		"event": "independence",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_independence_2017_5": {
+		"event": "independence",
+		"year": 2017,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2017_set_1": {
+		"event": "oktoberfest",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2017_set_1_animal": {
+		"event": "oktoberfest",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2017_set_2": {
+		"event": "oktoberfest",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2017_set_2_weapons": {
+		"event": "oktoberfest",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2017_set_3": {
+		"event": "oktoberfest",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2017_set_3_weapons": {
+		"event": "oktoberfest",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2017_set_4_male": {
+		"event": "oktoberfest",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest-2017_set_4_female": {
+		"event": "oktoberfest",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_oktoberfest_2017_set_5_weapons": {
+		"event": "oktoberfest",
+		"year": 2017,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_sale_cowboy_2017_clothes": {
+		"event": "sale",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_sale_cowboy_2017_animal": {
+		"event": "sale",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_sale_cowboy_2017_weapons": {
+		"event": "sale",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dod_2017_1_clothes": {
+		"event": "dotd",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dod_2017_1_weapons": {
+		"event": "dotd",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dod_2017_2_clothes": {
+		"event": "dotd",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dod_2017_2_animal": {
+		"event": "dotd",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dod_2017_2_weapons": {
+		"event": "dotd",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dod_2017_3_clothes": {
+		"event": "dotd",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dod_2017_3_animal": {
+		"event": "dotd",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_dod_2017_3_weapons": {
+		"event": "dotd",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_fair_2017_clothes": {
+		"event": "fair",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_fair_2017_animal": {
+		"event": "fair",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_fair_2017_weapons": {
+		"event": "fair",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_xmas17_male": {
+		"event": "xmas",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_xmas17_male_animal": {
+		"event": "xmas",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_xmas17_male_weapons": {
+		"event": "xmas",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_xmas17_female": {
+		"event": "xmas",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_xmas17_female_animal": {
+		"event": "xmas",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"set_xmas17_female_weapons": {
+		"event": "xmas",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2017_ifbc_clothes": {
+		"event": "outgame",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2017_ifbc_animal": {
+		"event": "outgame",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2017_ifbc_weapons": {
+		"event": "outgame",
+		"year": 2017,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_valentines_set_1": {
+		"event": "valentine",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_valentines_set_2": {
+		"event": "valentine",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_valentines_set_3": {
+		"event": "valentine",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_easter_set_1": {
+		"event": "easter",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_easter_set_2": {
+		"event": "easter",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_easter_set_3": {
+		"event": "easter",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_easter_set_4": {
+		"event": "easter",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_easter_set_5": {
+		"event": "easter",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_easter_set_6": {
+		"event": "easter",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_easter_set_7": {
+		"event": "easter",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_easter_set_8": {
+		"event": "easter",
+		"year": 2018,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_sale_set_golden_1": {
+		"event": "sale",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_spring_sale": {
+		"event": "sale",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2018_soccer_sale": {
+		"event": "sale",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independance_event_set1": {
+		"event": "independence",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"indepandance_event_set2": {
+		"event": "independence",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independance_event_set3": {
+		"event": "independence",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independance_event_set4": {
+		"event": "independence",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independance_event_set5": {
+		"event": "independence",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independance_event_set6": {
+		"event": "independence",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independance_event_set7": {
+		"event": "independence",
+		"year": 2018,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independance_event_set8": {
+		"event": "independence",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set2018_1": {
+		"event": "oktoberfest",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set2018_2": {
+		"event": "oktoberfest",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set2018_3": {
+		"event": "oktoberfest",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set2018_4": {
+		"event": "oktoberfest",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set2018_5": {
+		"event": "oktoberfest",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set2018_6": {
+		"event": "oktoberfest",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set2018_7": {
+		"event": "oktoberfest",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set2018_8": {
+		"event": "oktoberfest",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set2018_9": {
+		"event": "oktoberfest",
+		"year": 2018,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2018_set_1": {
+		"event": "dotd",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2018_set_2": {
+		"event": "dotd",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2018_set_3": {
+		"event": "dotd",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2018_set_4": {
+		"event": "dotd",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2018_set_5": {
+		"event": "dotd",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2018_set_6": {
+		"event": "dotd",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2018_set_7": {
+		"event": "dotd",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2018_set_8": {
+		"event": "dotd",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2018_set_9": {
+		"event": "dotd",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_2018_set": {
+		"event": "xmas",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_2018_set_2": {
+		"event": "xmas",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_2018_set_3": {
+		"event": "xmas",
+		"year": 2018,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2019_set_1": {
+		"event": "valentine",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2019_set_2": {
+		"event": "valentine",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2019_set_3": {
+		"event": "valentine",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2019_set_4": {
+		"event": "valentine",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_set_1_2019": {
+		"event": "easter",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_set_3_2019": {
+		"event": "easter",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_set_4_2019": {
+		"event": "easter",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_set_2_2019": {
+		"event": "easter",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_set_5_2019": {
+		"event": "easter",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_set_6_2019": {
+		"event": "easter",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_set_7_2019": {
+		"event": "easter",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_set_8_2019": {
+		"event": "easter",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_set_9_2019": {
+		"event": "easter",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_set_10_2019": {
+		"event": "easter",
+		"year": 2019,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2019_set_1": {
+		"event": "independence",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2019_set_2": {
+		"event": "independence",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2019_set_3": {
+		"event": "independence",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2019_set_4": {
+		"event": "independence",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2019_set_5": {
+		"event": "independence",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2019_set_6": {
+		"event": "independence",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2019_set_7": {
+		"event": "independence",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2019_set_8": {
+		"event": "independence",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2019_set_9": {
+		"event": "independence",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2019_set_10": {
+		"event": "independence",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2019_set_11": {
+		"event": "independence",
+		"year": 2019,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2019_set_12": {
+		"event": "ingame",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"friendship_set_rhomer": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"friendship_set_ninja123": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"friendship_set_lordlamar": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"friendship_set_meischada": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"sale_jfry_set_2019": {
+		"event": "sale",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"okt_setwof_2019_1": {
+		"event": "oktoberfest",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"okt_setwof_2019_2": {
+		"event": "oktoberfest",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"okt_setwof_2019_3": {
+		"event": "oktoberfest",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"okt_setwof_2019_4": {
+		"event": "oktoberfest",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"okt_setwof_2019_5": {
+		"event": "oktoberfest",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"okt_setwof_2019_6": {
+		"event": "oktoberfest",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"okt_setwof_2019_7": {
+		"event": "oktoberfest",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"okt_setwof_2019_8": {
+		"event": "oktoberfest",
+		"year": 2019,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"okt_setwof_2019_9": {
+		"event": "oktoberfest",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2019_set_1": {
+		"event": "dotd",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2019_set_2": {
+		"event": "dotd",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2019_set_3": {
+		"event": "dotd",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2019_set_4": {
+		"event": "dotd",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2019_set_5": {
+		"event": "dotd",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2019_set_6": {
+		"event": "dotd",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2019_set_7": {
+		"event": "dotd",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2019_set_8": {
+		"event": "dotd",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2019_set_9": {
+		"event": "dotd",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"christmas_set_1_2019": {
+		"event": "xmas",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"christmas_set_2_2019": {
+		"event": "xmas",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"christmas_set_3_2019": {
+		"event": "xmas",
+		"year": 2019,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"friendship_set_jerznero": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"friendship_set_gogo_booom": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2020_set_1": {
+		"event": "valentine",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2020_set_2": {
+		"event": "valentine",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2020_set_3": {
+		"event": "valentine",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2020_set_4": {
+		"event": "valentine",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"friendship_set_caleb_rozparovac": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"community_event_2020_march": {
+		"event": "otherevent",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"community_event_2020_march_2": {
+		"event": "otherevent",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"easter_2020_set_1": {
+		"event": "easter",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2020_set_2": {
+		"event": "easter",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2020_set_3": {
+		"event": "easter",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2020_set_4": {
+		"event": "easter",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2020_set_5": {
+		"event": "easter",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2020_set_6": {
+		"event": "easter",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2020_set_7": {
+		"event": "easter",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2020_set_8": {
+		"event": "easter",
+		"year": 2020,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"ifbc2020_set-1": {
+		"event": "outgame",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"ifbc2020_set_2": {
+		"event": "outgame",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"ifbc2020_set_3": {
+		"event": "outgame",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"friendship_set_veronika6679": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2020_set_1": {
+		"event": "independence",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2020_set_2": {
+		"event": "independence",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2020_set_3": {
+		"event": "independence",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2020_set_4": {
+		"event": "independence",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2020_set_5": {
+		"event": "independence",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2020_set_6": {
+		"event": "independence",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2020_set_7": {
+		"event": "independence",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2020_set_8": {
+		"event": "independence",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2020_set_9": {
+		"event": "independence",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2020_set_10": {
+		"event": "independence",
+		"year": 2020,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set_2020_1": {
+		"event": "oktoberfest",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set_2020_2": {
+		"event": "oktoberfest",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set_2020_3": {
+		"event": "oktoberfest",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set_2020_4": {
+		"event": "oktoberfest",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set_2020_5": {
+		"event": "oktoberfest",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set_2020_6": {
+		"event": "oktoberfest",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set_2020_7": {
+		"event": "oktoberfest",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set_2020_8": {
+		"event": "oktoberfest",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set_2020_9": {
+		"event": "oktoberfest",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set_2020_10": {
+		"event": "oktoberfest",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_set_2020_11": {
+		"event": "oktoberfest",
+		"year": 2020,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2020_set_1": {
+		"event": "dotd",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2020_set_2": {
+		"event": "dotd",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2020_set_3": {
+		"event": "dotd",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2020_set_4": {
+		"event": "dotd",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2020_set_5": {
+		"event": "dotd",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2020_set_6": {
+		"event": "dotd",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2020_set_7": {
+		"event": "dotd",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2020_set_8": {
+		"event": "dotd",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2020_set_9": {
+		"event": "dotd",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"friendship_set_bimsbime": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"christmas_set_1_2020": {
+		"event": "xmas",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"christmas_set_2_2020": {
+		"event": "xmas",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"christmas_set_3_2020": {
+		"event": "xmas",
+		"year": 2020,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2021_set_1": {
+		"event": "valentine",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2021_set_2": {
+		"event": "valentine",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2021_set_3": {
+		"event": "valentine",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2021_set_4": {
+		"event": "valentine",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"eire_set_1": {
+		"event": "otherevent",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"eire_set_2": {
+		"event": "otherevent",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"eire_set_3": {
+		"event": "otherevent",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_chick_set_1": {
+		"event": "shop",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_chick_set_2": {
+		"event": "shop",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_sheep_set_1": {
+		"event": "shop",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_sheep_set_2": {
+		"event": "shop",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_hare_set_1": {
+		"event": "shop",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_hare_set_2": {
+		"event": "shop",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2021_set1": {
+		"event": "easter",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2021_set_2": {
+		"event": "easter",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2021_set_3": {
+		"event": "easter",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2021_set_4": {
+		"event": "easter",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2021_set_5": {
+		"event": "easter",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2021_set_6": {
+		"event": "easter",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2021_set_7": {
+		"event": "easter",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2021_set_8": {
+		"event": "easter",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2021_set_9": {
+		"event": "easter",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2021_set_10": {
+		"event": "easter",
+		"year": 2021,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2021_sale_set_june_1": {
+		"event": "sale",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2021_sale_set_june_2": {
+		"event": "sale",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"2021_sale_set_june_3": {
+		"event": "sale",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2021_set_1": {
+		"event": "independence",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2021_set_2": {
+		"event": "independence",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2021_set_3": {
+		"event": "independence",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2021_set_4": {
+		"event": "independence",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2021_set_5": {
+		"event": "independence",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2021_set_6": {
+		"event": "independence",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2021_set_7": {
+		"event": "independence",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2021_set_8": {
+		"event": "independence",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2021_set_10": {
+		"event": "independence",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2021_set_11": {
+		"event": "independence",
+		"year": 2021,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"sale_august_2021_set_1": {
+		"event": "sale",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"sale_august_2021_set_2": {
+		"event": "sale",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"octoberfest_2021_set_1": {
+		"event": "oktoberfest",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"octoberfest_2021_set_2": {
+		"event": "oktoberfest",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"octoberfest_2021_set_3": {
+		"event": "oktoberfest",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"octoberfest_2021_set_4": {
+		"event": "oktoberfest",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"octoberfest_2021_set_5": {
+		"event": "oktoberfest",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"octoberfest_2021_set_6": {
+		"event": "oktoberfest",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"octoberfest_2021_set_7": {
+		"event": "oktoberfest",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"octoberfest_2021_set_8": {
+		"event": "oktoberfest",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"octoberfest_2021_set_9": {
+		"event": "oktoberfest",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"octoberfest_2021_set_10": {
+		"event": "oktoberfest",
+		"year": 2021,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2021_set_1": {
+		"event": "dotd",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2021_set_2": {
+		"event": "dotd",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2021_set_3": {
+		"event": "dotd",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2021_set_4": {
+		"event": "dotd",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2021_set_5": {
+		"event": "dotd",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2021_set_6": {
+		"event": "dotd",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2021_set_7": {
+		"event": "dotd",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2021_set_9": {
+		"event": "dotd",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2021_set_8": {
+		"event": "dotd",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_set_2021_1": {
+		"event": "xmas",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_set_2021_2": {
+		"event": "xmas",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_set_2021_3": {
+		"event": "xmas",
+		"year": 2021,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2022_set_1": {
+		"event": "valentine",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2022_set_2": {
+		"event": "valentine",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2022_set_3": {
+		"event": "valentine",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2022_set_4": {
+		"event": "valentine",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2022_set1": {
+		"event": "easter",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2022_set2": {
+		"event": "easter",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2022_set3": {
+		"event": "easter",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2022_set4": {
+		"event": "easter",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2022_set5": {
+		"event": "easter",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2022_set6": {
+		"event": "easter",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2022_set7": {
+		"event": "easter",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2022_set8": {
+		"event": "easter",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2022_set9": {
+		"event": "easter",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2022_set10": {
+		"event": "sale",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2022_set11": {
+		"event": "sale",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2022_set12": {
+		"event": "sale",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2022_set13": {
+		"event": "easter",
+		"year": 2022,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2022_set_1": {
+		"event": "independence",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2022_set_2": {
+		"event": "independence",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2022_set_3": {
+		"event": "independence",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2022_set_4": {
+		"event": "independence",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2022_set_5": {
+		"event": "independence",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2022_set_6": {
+		"event": "sale",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2022_set_7": {
+		"event": "independence",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2022_set_8": {
+		"event": "independence",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2022_set_9": {
+		"event": "sale",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2022_set_10": {
+		"event": "independence",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2022_set_11": {
+		"event": "independence",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2022_set_12": {
+		"event": "sale",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2022_set_13": {
+		"event": "independence",
+		"year": 2022,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2022_set_1": {
+		"event": "oktoberfest",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2022_set_2": {
+		"event": "oktoberfest",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2022_set_4": {
+		"event": "oktoberfest",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2022_set_3": {
+		"event": "oktoberfest",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2022_set_5": {
+		"event": "oktoberfest",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2022_set_6": {
+		"event": "oktoberfest",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2022_set_7": {
+		"event": "oktoberfest",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2022_set_8": {
+		"event": "oktoberfest",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2022_set_9": {
+		"event": "oktoberfest",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2022_set_10": {
+		"event": "oktoberfest",
+		"year": 2022,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2022_set_1": {
+		"event": "dotd",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2022_set_2": {
+		"event": "dotd",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2022_set_3": {
+		"event": "dotd",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2022_set_4": {
+		"event": "dotd",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2022_set_5": {
+		"event": "dotd",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2022_set_6": {
+		"event": "dotd",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2022_set_7": {
+		"event": "dotd",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2022_set_8": {
+		"event": "dotd",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2022_set_9": {
+		"event": "dotd",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"friendship_set_tueuchnix": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"friendship_set_robyxx404": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_set_2022_1": {
+		"event": "xmas",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_set_2022_2": {
+		"event": "xmas",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_set_2022_3": {
+		"event": "xmas",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2022_premium_set_1": {
+		"event": "sale",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2022_premium_set_2": {
+		"event": "sale",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2022_premium_set_3": {
+		"event": "sale",
+		"year": 2022,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2023_set_1": {
+		"event": "valentine",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2023_set_2": {
+		"event": "valentine",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2023_set_3": {
+		"event": "valentine",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2023_set_4": {
+		"event": "valentine",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2023_set1": {
+		"event": "easter",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2023_set2": {
+		"event": "easter",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2023_set3": {
+		"event": "easter",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2023_set4": {
+		"event": "easter",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2023_set5": {
+		"event": "sale",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2023_set6": {
+		"event": "easter",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2023_set7": {
+		"event": "easter",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2023_set8": {
+		"event": "sale",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2023_set9": {
+		"event": "easter",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2023_set10": {
+		"event": "easter",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2023_set11": {
+		"event": "sale",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2023_set12": {
+		"event": "easter",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2023_set13": {
+		"event": "easter",
+		"year": 2023,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"sale_june_2023_clothes": {
+		"event": "sale",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"sale_june_2023_animal": {
+		"event": "sale",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"sale_june_2023_weapon": {
+		"event": "sale",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2023_set_1": {
+		"event": "independence",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2023_set_2": {
+		"event": "independence",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2023_set_3": {
+		"event": "independence",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2023_set_4": {
+		"event": "independence",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2023_set_5": {
+		"event": "independence",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2023_set_6": {
+		"event": "sale",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2023_set_7": {
+		"event": "independence",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2023_set_8": {
+		"event": "independence",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2023_set_9": {
+		"event": "sale",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2023_set_10": {
+		"event": "independence",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2023_set_11": {
+		"event": "independence",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2023_set_12": {
+		"event": "sale",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2023_set_13": {
+		"event": "independence",
+		"year": 2023,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2023_set_1": {
+		"event": "oktoberfest",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2023_set_2": {
+		"event": "oktoberfest",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2023_set_3": {
+		"event": "oktoberfest",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2023_set_4": {
+		"event": "oktoberfest",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2023_set_5": {
+		"event": "oktoberfest",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2023_set_6": {
+		"event": "oktoberfest",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2023_set_7": {
+		"event": "oktoberfest",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2023_set_8": {
+		"event": "oktoberfest",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2023_set_9": {
+		"event": "oktoberfest",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2023_set_10": {
+		"event": "oktoberfest",
+		"year": 2023,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2023_set_1": {
+		"event": "dotd",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2023_set_2": {
+		"event": "dotd",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2023_set_3": {
+		"event": "dotd",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2023_set_4": {
+		"event": "dotd",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2023_set_5": {
+		"event": "dotd",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2023_set_6": {
+		"event": "dotd",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2023_set_7": {
+		"event": "dotd",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2023_set_8": {
+		"event": "dotd",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2023_set_9": {
+		"event": "dotd",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_sale_2023_set_1": {
+		"event": "sale",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_sale_2023_set_2": {
+		"event": "sale",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_sale_2023_set_3": {
+		"event": "sale",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_2023_set_1": {
+		"event": "xmas",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_2023_set_2": {
+		"event": "xmas",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_2023_set_3": {
+		"event": "xmas",
+		"year": 2023,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2024_set_1": {
+		"event": "valentine",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2024_set_2": {
+		"event": "valentine",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2024_set_3": {
+		"event": "valentine",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2024_set_4": {
+		"event": "valentine",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2024_set1": {
+		"event": "easter",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2024_set2": {
+		"event": "easter",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2024_set3": {
+		"event": "easter",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2024_set4": {
+		"event": "easter",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2024_set5": {
+		"event": "sale",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2024_set6": {
+		"event": "easter",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2024_set7": {
+		"event": "easter",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2024_set8": {
+		"event": "sale",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2024_set9": {
+		"event": "easter",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2024_set10": {
+		"event": "easter",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2024_set11": {
+		"event": "sale",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2024_set12": {
+		"event": "easter",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2024_set13": {
+		"event": "easter",
+		"year": 2024,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"16_b_day_set": {
+		"event": "otherevent",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"16_b_day_set_animal": {
+		"event": "otherevent",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"16_b_day_set_weapon": {
+		"event": "otherevent",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"soccer_2024_clothes": {
+		"event": "sale",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"soccer_2024_animal": {
+		"event": "sale",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"soccer_2024_weapon": {
+		"event": "sale",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2024_set_1": {
+		"event": "independence",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2024_set_2": {
+		"event": "independence",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2024_set_3": {
+		"event": "independence",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2024_set_4": {
+		"event": "independence",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2024_set_5": {
+		"event": "independence",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2024_set_6": {
+		"event": "sale",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2024_set_7": {
+		"event": "independence",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2024_set_8": {
+		"event": "independence",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2024_set_9": {
+		"event": "sale",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2024_set_10": {
+		"event": "independence",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2024_set_11": {
+		"event": "independence",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2024_set_12": {
+		"event": "sale",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2024_set_13": {
+		"event": "independence",
+		"year": 2024,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"ifbc_4_clothing_set": {
+		"event": "outgame",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"ifbc_4_animal_set": {
+		"event": "outgame",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"ifbc_4_weapon_set": {
+		"event": "outgame",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2024_set_1": {
+		"event": "oktoberfest",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2024_set_2": {
+		"event": "oktoberfest",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2024_set_3": {
+		"event": "oktoberfest",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2024_set_4": {
+		"event": "oktoberfest",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2024_set_5": {
+		"event": "sale",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2024_set_6": {
+		"event": "oktoberfest",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2024_set_7": {
+		"event": "oktoberfest",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2024_set_8": {
+		"event": "sale",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2024_set_9": {
+		"event": "oktoberfest",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2024_set_10": {
+		"event": "oktoberfest",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2024_set_11": {
+		"event": "sale",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2024_set_12": {
+		"event": "oktoberfest",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2024_winner": {
+		"event": "oktoberfest",
+		"year": 2024,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2024_set_1": {
+		"event": "dotd",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2024_set_2": {
+		"event": "dotd",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2024_set_3": {
+		"event": "dotd",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2024_set_4": {
+		"event": "dotd",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2024_set_5": {
+		"event": "dotd",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2024_set_6": {
+		"event": "dotd",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2024_set_7": {
+		"event": "dotd",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2024_set_8": {
+		"event": "dotd",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2024_set_9": {
+		"event": "dotd",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"western_friday_2024_clothes_set": {
+		"event": "blackfriday",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"western_friday_2024_animal_set": {
+		"event": "blackfriday",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"western_friday_2024_weapon_set": {
+		"event": "blackfriday",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_2024_set_1": {
+		"event": "xmas",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_2024_set_2": {
+		"event": "xmas",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_2024_set_3": {
+		"event": "xmas",
+		"year": 2024,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2025_set_1": {
+		"event": "valentine",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2025_set_2": {
+		"event": "valentine",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2025_set_3": {
+		"event": "valentine",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2025_set_4": {
+		"event": "valentine",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2025_set_1": {
+		"event": "easter",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2025_set_2": {
+		"event": "easter",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2025_set_3": {
+		"event": "easter",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2025_set_4": {
+		"event": "easter",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2025_set_5": {
+		"event": "sale",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2025_set_6": {
+		"event": "easter",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2025_set_7": {
+		"event": "easter",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2025_set_8": {
+		"event": "sale",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2025_set_9": {
+		"event": "easter",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2025_set_10": {
+		"event": "easter",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2025_set_11": {
+		"event": "sale",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2025_set_12": {
+		"event": "easter",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2025_set_13": {
+		"event": "easter",
+		"year": 2025,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"Rowtag_set": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"birthday_2025_clothes": {
+		"event": "otherevent",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"birthday_2025_animal": {
+		"event": "otherevent",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"birthday_2025_weapon": {
+		"event": "otherevent",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2025_set_1": {
+		"event": "independence",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2025_set_2": {
+		"event": "independence",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2025_set_3": {
+		"event": "independence",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2025_set_4": {
+		"event": "independence",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2025_set_5": {
+		"event": "independence",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2025_set_6": {
+		"event": "sale",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2025_set_7": {
+		"event": "independence",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2025_set_8": {
+		"event": "independence",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2025_set_9": {
+		"event": "sale",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2025_set_10": {
+		"event": "independence",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2025_set_11": {
+		"event": "independence",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2025_set_12": {
+		"event": "sale",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2025_set_13": {
+		"event": "independence",
+		"year": 2025,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2025_set_1": {
+		"event": "oktoberfest",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2025_set_2": {
+		"event": "oktoberfest",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2025_set_3": {
+		"event": "oktoberfest",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2025_set_4": {
+		"event": "oktoberfest",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2025_set_5": {
+		"event": "sale",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2025_set_6": {
+		"event": "oktoberfest",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2025_set_7": {
+		"event": "oktoberfest",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2025_set_8": {
+		"event": "sale",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2025_set_9": {
+		"event": "oktoberfest",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2025_set_10": {
+		"event": "oktoberfest",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2025_set_11": {
+		"event": "sale",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2025_set_12": {
+		"event": "oktoberfest",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2025_set_13": {
+		"event": "oktoberfest",
+		"year": 2025,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2025_set_2": {
+		"event": "dotd",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2025_set_3": {
+		"event": "dotd",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2025_set_4": {
+		"event": "dotd",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2025_set_5": {
+		"event": "dotd",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2025_set_6": {
+		"event": "dotd",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2025_set_7": {
+		"event": "dotd",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2025_set_8": {
+		"event": "dotd",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2025_set_9": {
+		"event": "dotd",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_2025_set_1": {
+		"event": "xmas",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_2025_set_2": {
+		"event": "xmas",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"holiday_2025_set_3": {
+		"event": "xmas",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2026_set_1": {
+		"event": "valentine",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2026_set_2": {
+		"event": "valentine",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2026_set_3": {
+		"event": "valentine",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"valentine_2026_set_4": {
+		"event": "valentine",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"squalippos_set": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2026_set_1": {
+		"event": "easter",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2026_set_2": {
+		"event": "sale",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2026_set_3": {
+		"event": "easter",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2026_set_4": {
+		"event": "easter",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2026_set_5": {
+		"event": "sale",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2026_set_6": {
+		"event": "easter",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2026_set_7": {
+		"event": "easter",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2026_set_8": {
+		"event": "sale",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2026_set_9": {
+		"event": "easter",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2026_set_10": {
+		"event": "easter",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2026_set_11": {
+		"event": "sale",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2026_set_12": {
+		"event": "easter",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"easter_2026_set_13": {
+		"event": "easter",
+		"year": 2026,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"birthday_2026_clothes": {
+		"event": "otherevent",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"birthday_2026_animal": {
+		"event": "otherevent",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"birthday_2026_weapon": {
+		"event": "otherevent",
+		"year": 2026,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2026_set_1": {
+		"event": "independence",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2026_set_2": {
+		"event": "independence",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2026_set_3": {
+		"event": "independence",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2026_set_4": {
+		"event": "independence",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2026_set_5": {
+		"event": "independence",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2026_set_6": {
+		"event": "sale",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2026_set_7": {
+		"event": "independence",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2026_set_8": {
+		"event": "independence",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2026_set_9": {
+		"event": "sale",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2026_set_10": {
+		"event": "independence",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2026_set_11": {
+		"event": "independence",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2026_set_12": {
+		"event": "sale",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"independence_day_2026_set_13": {
+		"event": "independence",
+		"year": 2026,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2026_set_1": {
+		"event": "oktoberfest",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2026_set_2": {
+		"event": "oktoberfest",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2026_set_3": {
+		"event": "oktoberfest",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2026_set_4": {
+		"event": "oktoberfest",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2026_set_5": {
+		"event": "sale",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2026_set_6": {
+		"event": "oktoberfest",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2026_set_7": {
+		"event": "oktoberfest",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2026_set_8": {
+		"event": "sale",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2026_set_9": {
+		"event": "oktoberfest",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2026_set_10": {
+		"event": "oktoberfest",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2026_set_11": {
+		"event": "sale",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2026_set_12": {
+		"event": "oktoberfest",
+		"year": 2026,
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"oktoberfest_2026_set_13": {
+		"event": "oktoberfest",
+		"year": 2026,
+		"winner": true,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"misulvs_set": {
+		"event": "friendship",
+		"year": 0,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2025_set_1": {
+		"event": "dotd",
+		"year": 2025,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"dod_2026_set_1": {
+		"event": "dotd",
+		"year": 2026,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false,
+		"winner": false
+	},
+	"dod_2026_set_2": {
+		"event": "dotd",
+		"year": 2026,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false,
+		"winner": false
+	},
+	"dod_2026_set_3": {
+		"event": "dotd",
+		"year": 2026,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false,
+		"winner": false
+	},
+	"dod_2026_set_4": {
+		"event": "dotd",
+		"year": 2026,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false,
+		"winner": false
+	},
+	"dod_2026_set_5": {
+		"event": "dotd",
+		"year": 2026,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false,
+		"winner": false
+	},
+	"dod_2026_set_6": {
+		"event": "dotd",
+		"year": 2026,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false,
+		"winner": false
+	},
+	"dod_2026_set_7": {
+		"event": "dotd",
+		"year": 2026,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false,
+		"winner": false
+	},
+	"dod_2026_set_8": {
+		"event": "dotd",
+		"year": 2026,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false,
+		"winner": false
+	},
+	"dod_2026_set_9": {
+		"event": "dotd",
+		"year": 2026,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false,
+		"winner": false
+	},
+	"holiday_2026_set_1": {
+		"event": "xmas",
+		"year": 2026,
+		"winner": false,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false
+	},
+	"holiday_2026_set_2": {
+		"event": "xmas",
+		"year": 2026,
+		"winner": false,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false
+	},
+	"holiday_2026_set_3": {
+		"event": "xmas",
+		"year": 2026,
+		"winner": false,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false
+	},
+	"valentine_2027_set_1": {
+		"event": "valentine",
+		"year": 2027,
+		"winner": false,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false
+	},
+	"valentine_2027_set_2": {
+		"event": "valentine",
+		"year": 2027,
+		"winner": false,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false
+	},
+	"valentine_2027_set_3": {
+		"event": "valentine",
+		"year": 2027,
+		"winner": false,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false
+	},
+	"valentine_2027_set_4": {
+		"event": "valentine",
+		"year": 2027,
+		"winner": false,
+		"source": "regex",
+		"needsReview": true,
+		"locked": false
+	}
+}

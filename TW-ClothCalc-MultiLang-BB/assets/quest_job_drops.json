@@ -1,0 +1,4638 @@
+{
+	"50000": {
+		"entries": [
+			{
+				"kind": "job",
+				"job": "iron",
+				"req": [
+					{
+						"type": "item",
+						"id": 721000,
+						"mode": "inv",
+						"count": 6
+					},
+					{
+						"type": "item",
+						"id": 1796000,
+						"mode": "eqp"
+					}
+				]
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"55000": {
+		"entries": [
+			{
+				"job": "berry",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"262000": {
+		"entries": [
+			{
+				"job": "wood",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"482000": {
+		"entries": [
+			{
+				"job": "stone",
+				"date": [
+					{
+						"d": 22,
+						"m": 6
+					},
+					{
+						"d": 29,
+						"m": 6
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"606000": {
+		"entries": [
+			{
+				"job": "cow",
+				"req": [
+					{
+						"id": 1784000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"858000": {
+		"entries": [
+			{
+				"job": "dynamite",
+				"req": [
+					{
+						"id": 1769000,
+						"mode": "eqp"
+					},
+					{
+						"id": 708000,
+						"mode": "inv",
+						"count": 10
+					}
+				],
+				"motivation": {
+					"op": "<=",
+					"value": 30
+				},
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1704000": {
+		"entries": [
+			{
+				"job": "cow",
+				"req": [
+					{
+						"id": 704000,
+						"mode": "eqp"
+					}
+				],
+				"time": [
+					"14:00",
+					"22:00"
+				],
+				"date": [
+					{
+						"d": 18,
+						"m": 11
+					},
+					{
+						"d": 2,
+						"m": 12
+					}
+				],
+				"sector": "A5",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1712000": {
+		"entries": [
+			{
+				"job": "dead",
+				"kind": "job"
+			},
+			{
+				"job": "travelling_salesman",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1761000": {
+		"entries": [
+			{
+				"job": "angle",
+				"req": [
+					{
+						"id": 1760000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1763000": {
+		"entries": [
+			{
+				"job": "fire",
+				"req": [
+					{
+						"id": 1710000,
+						"mode": "inv"
+					},
+					{
+						"id": 1711000,
+						"mode": "inv"
+					},
+					{
+						"id": 1712000,
+						"mode": "inv"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1764000": {
+		"entries": [
+			{
+				"job": "quackery",
+				"req": [
+					{
+						"id": 1763000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1765000": {
+		"entries": [
+			{
+				"job": "treasure_hunting",
+				"req": [
+					{
+						"id": 1764000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1766000": {
+		"entries": [
+			{
+				"job": "dynamite",
+				"req": [
+					{
+						"id": 753000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1767000": {
+		"entries": [
+			{
+				"job": "fishing",
+				"req": [
+					{
+						"id": 1766000,
+						"mode": "eqp"
+					}
+				],
+				"time": [
+					"18:00",
+					"20:00"
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1769000": {
+		"entries": [
+			{
+				"job": "oil",
+				"req": [
+					{
+						"id": 715000,
+						"mode": "eqp"
+					},
+					{
+						"id": 1768000,
+						"mode": "inv"
+					}
+				],
+				"lp": {
+					"op": ">=",
+					"value": 0
+				},
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1770000": {
+		"entries": [
+			{
+				"job": "clearing",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1773000": {
+		"entries": [
+			{
+				"job": "tabacco",
+				"req": [
+					{
+						"id": 1771000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1774000": {
+		"entries": [
+			{
+				"job": "agave",
+				"req": [
+					{
+						"id": 1771000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1775000": {
+		"entries": [
+			{
+				"job": "dynamite",
+				"req": [
+					{
+						"id": 1771000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1776000": {
+		"entries": [
+			{
+				"job": "break_in",
+				"req": [
+					{
+						"id": 1771000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1777000": {
+		"entries": [
+			{
+				"job": "quackery",
+				"req": [
+					{
+						"id": 1771000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1778000": {
+		"entries": [
+			{
+				"job": "saw",
+				"req": [
+					{
+						"id": 1771000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1779000": {
+		"entries": [
+			{
+				"job": "treasure_hunting",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1780000": {
+		"entries": [
+			{
+				"job": "dead",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1781000": {
+		"entries": [
+			{
+				"job": "fort_guard",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1782000": {
+		"entries": [
+			{
+				"job": "gems",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1783000": {
+		"entries": [
+			{
+				"job": "bible",
+				"req": [
+					{
+						"id": 1779000,
+						"mode": "inv"
+					},
+					{
+						"id": 1780000,
+						"mode": "inv"
+					},
+					{
+						"id": 1781000,
+						"mode": "inv"
+					},
+					{
+						"id": 1782000,
+						"mode": "inv"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1785000": {
+		"entries": [
+			{
+				"job": "float",
+				"req": [
+					{
+						"id": 1784000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1786000": {
+		"entries": [
+			{
+				"job": "newspaper",
+				"req": [
+					{
+						"id": 1784000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1790000": {
+		"entries": [
+			{
+				"job": "wood",
+				"req": [
+					{
+						"id": 1791000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1793000": {
+		"entries": [
+			{
+				"job": "straighten",
+				"req": [
+					{
+						"id": 736000,
+						"mode": "eqp"
+					}
+				],
+				"time": [
+					"20:00",
+					"00:00"
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1795000": {
+		"entries": [
+			{
+				"job": "quackery",
+				"req": [
+					{
+						"id": 1794000,
+						"mode": "eqp"
+					}
+				],
+				"lp": {
+					"op": ">=",
+					"value": 0
+				},
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1796000": {
+		"entries": [
+			{
+				"job": "stone",
+				"req": [
+					{
+						"id": 1795000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1799000": {
+		"entries": [
+			{
+				"job": "stone",
+				"date": [
+					{
+						"d": 30,
+						"m": 10
+					},
+					{
+						"d": 5,
+						"m": 11
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1800000": {
+		"entries": [
+			{
+				"job": "fishing",
+				"date": [
+					{
+						"d": 30,
+						"m": 10
+					},
+					{
+						"d": 5,
+						"m": 11
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1801000": {
+		"entries": [
+			{
+				"job": "coyote",
+				"date": [
+					{
+						"d": 30,
+						"m": 10
+					},
+					{
+						"d": 5,
+						"m": 11
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1802000": {
+		"entries": [
+			{
+				"job": "explore",
+				"date": [
+					{
+						"d": 30,
+						"m": 10
+					},
+					{
+						"d": 5,
+						"m": 11
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1803000": {
+		"entries": [
+			{
+				"job": "sugar",
+				"req": [
+					{
+						"id": 791000,
+						"mode": "inv"
+					}
+				],
+				"date": [
+					{
+						"d": 30,
+						"m": 10
+					},
+					{
+						"d": 5,
+						"m": 11
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1804000": {
+		"entries": [
+			{
+				"job": "newspaper",
+				"req": [
+					{
+						"id": 744000,
+						"mode": "inv"
+					}
+				],
+				"date": [
+					{
+						"d": 30,
+						"m": 10
+					},
+					{
+						"d": 5,
+						"m": 11
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1805000": {
+		"entries": [
+			{
+				"job": "socks_darn",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1806000": {
+		"entries": [
+			{
+				"job": "cotton",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1828000": {
+		"entries": [
+			{
+				"job": "travelling_salesman",
+				"kind": "job"
+			},
+			{
+				"job": "gem_gathering",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1829000": {
+		"entries": [
+			{
+				"job": "travelling_salesman",
+				"kind": "job"
+			},
+			{
+				"job": "gem_gathering",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1830000": {
+		"entries": [
+			{
+				"job": "travelling_salesman",
+				"kind": "job"
+			},
+			{
+				"job": "gem_gathering",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1838000": {
+		"entries": [
+			{
+				"job": "sheeps",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1840000": {
+		"entries": [
+			{
+				"job": "potatoe",
+				"kind": "job"
+			},
+			{
+				"job": "pumpkin",
+				"kind": "job"
+			},
+			{
+				"job": "blueberries",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1935000": {
+		"entries": [
+			{
+				"job": "tabacco",
+				"req": [
+					{
+						"id": 1789000,
+						"mode": "eqp"
+					}
+				],
+				"time": [
+					"12:00",
+					"15:00"
+				],
+				"days": [
+					"sat"
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1936000": {
+		"entries": [
+			{
+				"job": "explore",
+				"req": [
+					{
+						"id": 1792000,
+						"mode": "eqp"
+					}
+				],
+				"days": [
+					"sun"
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1953000": {
+		"entries": [
+			{
+				"job": "indians",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1954000": {
+		"entries": [
+			{
+				"job": "army",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1956000": {
+		"entries": [
+			{
+				"job": "fence",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1957000": {
+		"entries": [
+			{
+				"job": "iron",
+				"req": [
+					{
+						"id": 1791000,
+						"mode": "inv",
+						"count": 9
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1958000": {
+		"entries": [
+			{
+				"job": "silver",
+				"req": [
+					{
+						"id": 725000,
+						"mode": "inv",
+						"count": 15
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1959000": {
+		"entries": [
+			{
+				"job": "gem_gathering",
+				"req": [
+					{
+						"id": 720000,
+						"mode": "inv",
+						"count": 20
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1962000": {
+		"entries": [
+			{
+				"job": "scarecrow",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1963000": {
+		"entries": [
+			{
+				"job": "muck_out",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1964000": {
+		"entries": [
+			{
+				"job": "wood",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1992000": {
+		"entries": [
+			{
+				"job": "coyote",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1994000": {
+		"entries": [
+			{
+				"job": "sheeps",
+				"req": [
+					{
+						"id": 17000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1995000": {
+		"entries": [
+			{
+				"job": "buffalo",
+				"req": [
+					{
+						"id": 17000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"1996000": {
+		"entries": [
+			{
+				"job": "grinding",
+				"req": [
+					{
+						"id": 766000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2000000": {
+		"entries": [
+			{
+				"job": "wildwater",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2003000": {
+		"entries": [
+			{
+				"job": "rattlesnake",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2006000": {
+		"entries": [
+			{
+				"job": "rodeo",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2009000": {
+		"entries": [
+			{
+				"job": "wildwater",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2224000": {
+		"entries": [
+			{
+				"job": "orange",
+				"date": [
+					{
+						"d": 30,
+						"m": 4
+					},
+					{
+						"d": 11,
+						"m": 5
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2266000": {
+		"entries": [
+			{
+				"job": "grave",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2267000": {
+		"entries": [
+			{
+				"job": "ponyexpress",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2306000": {
+		"entries": [
+			{
+				"job": "orange",
+				"date": [
+					{
+						"d": 29,
+						"m": 7
+					},
+					{
+						"d": 10,
+						"m": 8
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2307000": {
+		"entries": [
+			{
+				"job": "socks_darn",
+				"date": [
+					{
+						"d": 29,
+						"m": 7
+					},
+					{
+						"d": 10,
+						"m": 8
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2308000": {
+		"entries": [
+			{
+				"job": "dam",
+				"date": [
+					{
+						"d": 29,
+						"m": 7
+					},
+					{
+						"d": 10,
+						"m": 8
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2309000": {
+		"entries": [
+			{
+				"job": "wire",
+				"date": [
+					{
+						"d": 29,
+						"m": 7
+					},
+					{
+						"d": 10,
+						"m": 8
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2351000": {
+		"entries": [
+			{
+				"job": "brand",
+				"kind": "job"
+			},
+			{
+				"job": "springe",
+				"kind": "job"
+			},
+			{
+				"job": "grizzly",
+				"kind": "job"
+			},
+			{
+				"job": "burglary",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2364000": {
+		"entries": [
+			{
+				"job": "horseshoe",
+				"kind": "job"
+			},
+			{
+				"job": "spring",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2373000": {
+		"entries": [
+			{
+				"job": "silver",
+				"req": [
+					{
+						"id": 807000,
+						"mode": "inv",
+						"count": 3
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2375000": {
+		"entries": [
+			{
+				"job": "ox",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2376000": {
+		"entries": [
+			{
+				"job": "gather_feathers",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2377000": {
+		"entries": [
+			{
+				"job": "grizzly",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2398000": {
+		"entries": [
+			{
+				"job": "bandits",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2399000": {
+		"entries": [
+			{
+				"job": "iron",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2400000": {
+		"entries": [
+			{
+				"job": "grind_coffee",
+				"req": [
+					{
+						"id": 1818000,
+						"mode": "inv"
+					},
+					{
+						"id": 1821000,
+						"mode": "inv",
+						"count": 7
+					},
+					{
+						"id": 721000,
+						"mode": "inv",
+						"count": 2
+					}
+				],
+				"kind": "job"
+			},
+			{
+				"job": "grinding",
+				"req": [
+					{
+						"id": 1818000,
+						"mode": "inv"
+					},
+					{
+						"id": 1821000,
+						"mode": "inv",
+						"count": 7
+					},
+					{
+						"id": 721000,
+						"mode": "inv",
+						"count": 2
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2401000": {
+		"entries": [
+			{
+				"job": "fire",
+				"req": [
+					{
+						"id": 708000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2402000": {
+		"entries": [
+			{
+				"job": "silver",
+				"req": [
+					{
+						"id": 2401000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2403000": {
+		"entries": [
+			{
+				"job": "print",
+				"req": [
+					{
+						"id": 2402000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2404000": {
+		"entries": [
+			{
+				"job": "grinding",
+				"req": [
+					{
+						"id": 790000,
+						"mode": "inv"
+					},
+					{
+						"id": 789000,
+						"mode": "inv"
+					}
+				],
+				"kind": "job"
+			},
+			{
+				"job": "grind_coffee",
+				"req": [
+					{
+						"id": 790000,
+						"mode": "inv"
+					},
+					{
+						"id": 789000,
+						"mode": "inv"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2405000": {
+		"entries": [
+			{
+				"job": "quackery",
+				"days": [
+					"wed",
+					"fri"
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2406000": {
+		"entries": [
+			{
+				"job": "cotton",
+				"req": [
+					{
+						"id": 1820000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2407000": {
+		"entries": [
+			{
+				"job": "muck_out",
+				"req": [
+					{
+						"id": 1821000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2408000": {
+		"entries": [
+			{
+				"job": "burglary",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2410000": {
+		"entries": [
+			{
+				"job": "explore",
+				"req": [
+					{
+						"id": 737000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2411000": {
+		"entries": [
+			{
+				"job": "coyote",
+				"req": [
+					{
+						"id": 793000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2412000": {
+		"entries": [
+			{
+				"job": "grinding",
+				"req": [
+					{
+						"id": 1810000,
+						"mode": "inv",
+						"count": 10
+					},
+					{
+						"id": 1811000,
+						"mode": "inv",
+						"count": 10
+					}
+				],
+				"kind": "job"
+			},
+			{
+				"job": "grind_coffee",
+				"req": [
+					{
+						"id": 1810000,
+						"mode": "inv",
+						"count": 10
+					},
+					{
+						"id": 1811000,
+						"mode": "inv",
+						"count": 10
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2413000": {
+		"entries": [
+			{
+				"job": "ponyexpress",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2414000": {
+		"entries": [
+			{
+				"job": "dead",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2416000": {
+		"entries": [
+			{
+				"job": "steal",
+				"req": [
+					{
+						"id": 721000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2417000": {
+		"entries": [
+			{
+				"job": "quackery",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2418000": {
+		"entries": [
+			{
+				"job": "sheriff_work",
+				"req": [
+					{
+						"id": 2399000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2419000": {
+		"entries": [
+			{
+				"job": "rattlesnake",
+				"req": [
+					{
+						"id": 1819000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2420000": {
+		"entries": [
+			{
+				"job": "diligence_aggression",
+				"req": [
+					{
+						"id": 216000,
+						"mode": "eqp"
+					},
+					{
+						"id": 548000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2421000": {
+		"entries": [
+			{
+				"job": "travelling_salesman",
+				"req": [
+					{
+						"id": 2420000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2422000": {
+		"entries": [
+			{
+				"job": "marshall",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2423000": {
+		"entries": [
+			{
+				"job": "marshall",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2424000": {
+		"entries": [
+			{
+				"job": "cotton",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2426000": {
+		"entries": [
+			{
+				"job": "quackery",
+				"req": [
+					{
+						"id": 1826000,
+						"mode": "inv"
+					},
+					{
+						"id": 715000,
+						"mode": "inv"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2427000": {
+		"entries": [
+			{
+				"job": "print",
+				"req": [
+					{
+						"id": 1837000,
+						"mode": "inv"
+					},
+					{
+						"id": 1825000,
+						"mode": "inv"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2428000": {
+		"entries": [
+			{
+				"job": "casino",
+				"days": [
+					"mon"
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2500000": {
+		"entries": [
+			{
+				"job": "trapper",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2502000": {
+		"entries": [
+			{
+				"job": "play_piano",
+				"req": [
+					{
+						"id": 2500000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2503000": {
+		"entries": [
+			{
+				"job": "guide_greenhorns",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2504000": {
+		"entries": [
+			{
+				"job": "harvest_pepper",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2505000": {
+		"entries": [
+			{
+				"job": "harvest_pepper",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2506000": {
+		"entries": [
+			{
+				"job": "melting_bullets",
+				"req": [
+					{
+						"id": 2509000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2508000": {
+		"entries": [
+			{
+				"job": "track_big_game",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2509000": {
+		"entries": [
+			{
+				"job": "dead",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2510000": {
+		"entries": [
+			{
+				"job": "plan_reservat",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2511000": {
+		"entries": [
+			{
+				"job": "colonialize_areas",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2512000": {
+		"entries": [
+			{
+				"job": "stage_performer",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2513000": {
+		"entries": [
+			{
+				"job": "print",
+				"req": [
+					{
+						"id": 2456000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2514000": {
+		"entries": [
+			{
+				"job": "craft_dynamite",
+				"req": [
+					{
+						"id": 728000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2515000": {
+		"entries": [
+			{
+				"job": "hunt_aligators",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2532000": {
+		"entries": [
+			{
+				"job": "rail",
+				"req": [
+					{
+						"id": 1827000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2552000": {
+		"entries": [
+			{
+				"job": "irrigation",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2553000": {
+		"entries": [
+			{
+				"job": "gather_spices",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2554000": {
+		"entries": [
+			{
+				"job": "wanted",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2568000": {
+		"entries": [
+			{
+				"job": "cereal",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2570000": {
+		"entries": [
+			{
+				"job": "grind_coffee",
+				"req": [
+					{
+						"id": 2569000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			},
+			{
+				"job": "grinding",
+				"req": [
+					{
+						"id": 2569000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2571000": {
+		"entries": [
+			{
+				"job": "chuck_wagon",
+				"req": [
+					{
+						"id": 2570000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2572000": {
+		"entries": [
+			{
+				"job": "windmeel",
+				"req": [
+					{
+						"id": 2573000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2702000": {
+		"entries": [
+			{
+				"job": "wood",
+				"kind": "job"
+			},
+			{
+				"job": "float",
+				"kind": "job"
+			},
+			{
+				"job": "clearing",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2703000": {
+		"entries": [
+			{
+				"job": "grinding",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2704000": {
+		"entries": [
+			{
+				"job": "sugar",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"2705000": {
+		"entries": [
+			{
+				"job": "scarecrow",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"10193000": {
+		"entries": [
+			{
+				"job": "spring",
+				"date": [
+					{
+						"d": 22,
+						"m": 6
+					},
+					{
+						"d": 29,
+						"m": 6
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"11182000": {
+		"entries": [
+			{
+				"job": "muck_out",
+				"date": [
+					{
+						"d": 22,
+						"m": 6
+					},
+					{
+						"d": 29,
+						"m": 6
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"17020000": {
+		"entries": [
+			{
+				"job": "digging",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"17021000": {
+		"entries": [
+			{
+				"job": "fire",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"17022000": {
+		"entries": [
+			{
+				"job": "iron",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"17023000": {
+		"entries": [
+			{
+				"job": "coal",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"17024000": {
+		"entries": [
+			{
+				"job": "irrigation",
+				"days": [
+					"wed"
+				],
+				"req": [
+					{
+						"id": 17027000,
+						"mode": "inv"
+					},
+					{
+						"id": 1857000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"17025000": {
+		"entries": [
+			{
+				"job": "wildwater",
+				"days": [
+					"wed"
+				],
+				"req": [
+					{
+						"id": 715000,
+						"mode": "inv"
+					},
+					{
+						"id": 17024000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"20019000": {
+		"entries": [
+			{
+				"job": "travelling_salesman",
+				"kind": "job"
+			},
+			{
+				"job": "shatter_gang",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"20039000": {
+		"entries": [
+			{
+				"job": "travelling_salesman",
+				"kind": "job"
+			},
+			{
+				"job": "shatter_gang",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"20059000": {
+		"entries": [
+			{
+				"job": "travelling_salesman",
+				"kind": "job"
+			},
+			{
+				"job": "shatter_gang",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"20079000": {
+		"entries": [
+			{
+				"job": "shatter_gang",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"40049000": {
+		"entries": [
+			{
+				"job": "cow",
+				"date": [
+					{
+						"d": 22,
+						"m": 6
+					},
+					{
+						"d": 29,
+						"m": 6
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"41020000": {
+		"entries": [
+			{
+				"job": "break_in",
+				"date": [
+					{
+						"d": 22,
+						"m": 6
+					},
+					{
+						"d": 29,
+						"m": 6
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50091000": {
+		"entries": [
+			{
+				"job": "ponyexpress",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50172000": {
+		"entries": [
+			{
+				"job": "grinding",
+				"req": [
+					{
+						"id": 721000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			},
+			{
+				"job": "grind_coffee",
+				"req": [
+					{
+						"id": 721000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50178000": {
+		"entries": [
+			{
+				"job": "work_wells_fargo",
+				"kind": "job"
+			},
+			{
+				"job": "explore_west",
+				"kind": "job"
+			},
+			{
+				"job": "work_pinkerton_agent",
+				"kind": "job"
+			},
+			{
+				"job": "lead_expedition",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50180000": {
+		"entries": [
+			{
+				"job": "fire",
+				"req": [
+					{
+						"id": 708000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50181000": {
+		"entries": [
+			{
+				"job": "silver",
+				"req": [
+					{
+						"id": 50180000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50182000": {
+		"entries": [
+			{
+				"job": "print",
+				"req": [
+					{
+						"id": 50181000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50185000": {
+		"entries": [
+			{
+				"job": "lotus_gathering",
+				"req": [
+					{
+						"id": 755000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50186000": {
+		"entries": [
+			{
+				"job": "ponyexpress",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50196000": {
+		"entries": [
+			{
+				"job": "aggression",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50197000": {
+		"entries": [
+			{
+				"job": "straighten",
+				"req": [
+					{
+						"id": 711000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50198000": {
+		"entries": [
+			{
+				"job": "melting_bullets",
+				"req": [
+					{
+						"id": 50197000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50200000": {
+		"entries": [
+			{
+				"job": "trade",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50201000": {
+		"entries": [
+			{
+				"job": "free_slaves",
+				"req": [
+					{
+						"id": 1834000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50202000": {
+		"entries": [
+			{
+				"job": "indigo_gathering",
+				"req": [
+					{
+						"id": 1814000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			},
+			{
+				"job": "blueberries",
+				"req": [
+					{
+						"id": 1814000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50203000": {
+		"entries": [
+			{
+				"job": "indigo_gathering",
+				"req": [
+					{
+						"id": 1814000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			},
+			{
+				"job": "blueberries",
+				"req": [
+					{
+						"id": 1814000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50204000": {
+		"entries": [
+			{
+				"job": "loge",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50207000": {
+		"entries": [
+			{
+				"job": "trade",
+				"kind": "job"
+			},
+			{
+				"job": "grinding",
+				"kind": "job"
+			},
+			{
+				"job": "steal",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50209000": {
+		"entries": [
+			{
+				"job": "chuck_wagon",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50271000": {
+		"entries": [
+			{
+				"job": "digging",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50272000": {
+		"entries": [
+			{
+				"job": "fire",
+				"req": [
+					{
+						"id": 802000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50273000": {
+		"entries": [
+			{
+				"job": "iron",
+				"req": [
+					{
+						"id": 747000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50274000": {
+		"entries": [
+			{
+				"job": "coal",
+				"req": [
+					{
+						"id": 1856000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50276000": {
+		"entries": [
+			{
+				"job": "irrigation",
+				"req": [
+					{
+						"id": 50275000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50277000": {
+		"entries": [
+			{
+				"job": "wildwater",
+				"req": [
+					{
+						"id": 50276000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50320000": {
+		"entries": [
+			{
+				"job": "agave",
+				"kind": "job"
+			},
+			{
+				"job": "trade",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50321000": {
+		"entries": [
+			{
+				"job": "agave",
+				"kind": "job"
+			},
+			{
+				"job": "trade",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50322000": {
+		"entries": [
+			{
+				"job": "newspaper",
+				"kind": "job"
+			},
+			{
+				"job": "print",
+				"kind": "job"
+			},
+			{
+				"job": "wanted",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50429000": {
+		"entries": [
+			{
+				"job": "gem_gathering",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50511000": {
+		"entries": [
+			{
+				"job": "work_wells_fargo",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50512000": {
+		"entries": [
+			{
+				"job": "play_piano",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50513000": {
+		"entries": [
+			{
+				"job": "trading_office",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50516000": {
+		"entries": [
+			{
+				"job": "stage_performer",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50519000": {
+		"entries": [
+			{
+				"job": "alcohol",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50520000": {
+		"entries": [
+			{
+				"job": "destille_alkohol",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50522000": {
+		"entries": [
+			{
+				"job": "arm_wrestling",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50523000": {
+		"entries": [
+			{
+				"job": "guide_greenhorns",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50526000": {
+		"entries": [
+			{
+				"job": "work_pinkerton_agent",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50527000": {
+		"entries": [
+			{
+				"job": "melting_bullets",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50528000": {
+		"entries": [
+			{
+				"job": "bodyguard",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50529000": {
+		"entries": [
+			{
+				"job": "lead_expedition",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50533000": {
+		"entries": [
+			{
+				"job": "hunt_aligators",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50534000": {
+		"entries": [
+			{
+				"job": "explore_west",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50535000": {
+		"entries": [
+			{
+				"job": "plan_reservat",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50537000": {
+		"entries": [
+			{
+				"job": "track_big_game",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50538000": {
+		"entries": [
+			{
+				"job": "trapper",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50764000": {
+		"entries": [
+			{
+				"job": "grinding",
+				"req": [
+					{
+						"id": 706000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50765000": {
+		"entries": [
+			{
+				"job": "newspaper",
+				"req": [
+					{
+						"id": 10000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50881000": {
+		"entries": [
+			{
+				"job": "berry",
+				"time": [
+					"10:00",
+					"23:59"
+				],
+				"kind": "job"
+			},
+			{
+				"job": "blueberries",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50882000": {
+		"entries": [
+			{
+				"job": "trade",
+				"time": [
+					"10:00",
+					"23:59"
+				],
+				"kind": "job"
+			},
+			{
+				"job": "trading_office",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50893000": {
+		"entries": [
+			{
+				"job": "gems",
+				"kind": "job"
+			},
+			{
+				"job": "gem_gathering",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50894000": {
+		"entries": [
+			{
+				"job": "trade",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50952000": {
+		"entries": [
+			{
+				"job": "grind_coffee",
+				"req": [
+					{
+						"id": 2162000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			},
+			{
+				"job": "grinding",
+				"req": [
+					{
+						"id": 2162000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50953000": {
+		"entries": [
+			{
+				"job": "tabacco",
+				"kind": "job"
+			},
+			{
+				"job": "scarecrow",
+				"kind": "job"
+			},
+			{
+				"job": "trade",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50954000": {
+		"entries": [
+			{
+				"job": "tabacco",
+				"kind": "job"
+			},
+			{
+				"job": "scarecrow",
+				"kind": "job"
+			},
+			{
+				"job": "trade",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50955000": {
+		"entries": [
+			{
+				"job": "mast",
+				"kind": "job"
+			},
+			{
+				"job": "ponyexpress",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50957000": {
+		"entries": [
+			{
+				"job": "saw",
+				"kind": "job"
+			},
+			{
+				"job": "claim",
+				"kind": "job"
+			},
+			{
+				"job": "explore",
+				"kind": "job"
+			},
+			{
+				"job": "break_in",
+				"kind": "job"
+			},
+			{
+				"job": "ox",
+				"kind": "job"
+			},
+			{
+				"job": "fort_guard",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"50976000": {
+		"entries": [
+			{
+				"job": "scarecrow",
+				"kind": "job"
+			},
+			{
+				"job": "cotton",
+				"kind": "job"
+			},
+			{
+				"job": "tabacco",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51016000": {
+		"entries": [
+			{
+				"job": "travelling_salesman",
+				"kind": "job"
+			},
+			{
+				"job": "dead",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51018000": {
+		"entries": [
+			{
+				"job": "orange",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51020000": {
+		"entries": [
+			{
+				"job": "beaver",
+				"req": [
+					{
+						"id": 744000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51021000": {
+		"entries": [
+			{
+				"job": "grind_coffee",
+				"req": [
+					{
+						"id": 1818000,
+						"mode": "inv"
+					},
+					{
+						"id": 1821000,
+						"mode": "inv",
+						"count": 7
+					},
+					{
+						"id": 721000,
+						"mode": "inv",
+						"count": 2
+					}
+				],
+				"kind": "job"
+			},
+			{
+				"job": "grinding",
+				"req": [
+					{
+						"id": 1818000,
+						"mode": "inv"
+					},
+					{
+						"id": 1821000,
+						"mode": "inv",
+						"count": 7
+					},
+					{
+						"id": 721000,
+						"mode": "inv",
+						"count": 2
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51027000": {
+		"entries": [
+			{
+				"job": "treasure_hunting",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51028000": {
+		"entries": [
+			{
+				"job": "gambler",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51029000": {
+		"entries": [
+			{
+				"job": "travelling_salesman",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51234000": {
+		"entries": [
+			{
+				"job": "trade",
+				"req": [
+					{
+						"id": 723000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51238000": {
+		"entries": [
+			{
+				"job": "fence",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51375000": {
+		"entries": [
+			{
+				"job": "print",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51376000": {
+		"entries": [
+			{
+				"job": "gems",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51378000": {
+		"entries": [
+			{
+				"job": "explore",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51779000": {
+		"entries": [
+			{
+				"job": "scarecrow",
+				"kind": "job"
+			},
+			{
+				"job": "tabacco",
+				"kind": "job"
+			},
+			{
+				"job": "cotton",
+				"kind": "job"
+			},
+			{
+				"job": "cereal",
+				"kind": "job"
+			},
+			{
+				"job": "bandits",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51780000": {
+		"entries": [
+			{
+				"job": "grave",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51781000": {
+		"entries": [
+			{
+				"job": "agave",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"51865000": {
+		"entries": [
+			{
+				"job": "trade",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52107000": {
+		"entries": [
+			{
+				"job": "blueberries",
+				"kind": "job"
+			},
+			{
+				"job": "berry",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52108000": {
+		"entries": [
+			{
+				"job": "agave",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52109000": {
+		"entries": [
+			{
+				"job": "agave",
+				"req": [
+					{
+						"id": 52108000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52134000": {
+		"entries": [
+			{
+				"job": "cereal",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52154000": {
+		"entries": [
+			{
+				"job": "trade",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52299000": {
+		"entries": [
+			{
+				"job": "explore",
+				"kind": "job"
+			},
+			{
+				"job": "indians",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52300000": {
+		"entries": [
+			{
+				"job": "tanning",
+				"kind": "job"
+			},
+			{
+				"job": "springe",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52301000": {
+		"entries": [
+			{
+				"job": "trade",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52302000": {
+		"entries": [
+			{
+				"job": "saw",
+				"kind": "job"
+			},
+			{
+				"job": "wood",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52331000": {
+		"entries": [
+			{
+				"job": "fence",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52333000": {
+		"entries": [
+			{
+				"job": "spring",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52436000": {
+		"entries": [
+			{
+				"job": "berry",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52437000": {
+		"entries": [
+			{
+				"job": "cereal",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52438000": {
+		"entries": [
+			{
+				"job": "cotton",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52578000": {
+		"entries": [
+			{
+				"job": "irrigation",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52647000": {
+		"entries": [
+			{
+				"job": "tabacco",
+				"kind": "job"
+			},
+			{
+				"job": "berry",
+				"kind": "job"
+			},
+			{
+				"job": "claim",
+				"kind": "job"
+			},
+			{
+				"job": "springe",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52651000": {
+		"entries": [
+			{
+				"job": "nickel_mining",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52652000": {
+		"entries": [
+			{
+				"job": "reporter",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52653000": {
+		"entries": [
+			{
+				"job": "hunting_bulls",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52654000": {
+		"entries": [
+			{
+				"job": "historian",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52656000": {
+		"entries": [
+			{
+				"job": "hunting_foxes",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52657000": {
+		"entries": [
+			{
+				"job": "archaeologist",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52658000": {
+		"entries": [
+			{
+				"job": "hunting_rabbits",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52659000": {
+		"entries": [
+			{
+				"job": "office",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52660000": {
+		"entries": [
+			{
+				"job": "hunting_antelopes",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52661000": {
+		"entries": [
+			{
+				"job": "coroner",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52662000": {
+		"entries": [
+			{
+				"job": "building_chests",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52664000": {
+		"entries": [
+			{
+				"job": "stealing_cattle",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52665000": {
+		"entries": [
+			{
+				"job": "make_campfire",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52666000": {
+		"entries": [
+			{
+				"job": "barber",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52667000": {
+		"entries": [
+			{
+				"job": "ticket_agent",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52668000": {
+		"entries": [
+			{
+				"job": "picking_carrots",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52669000": {
+		"entries": [
+			{
+				"job": "stud_farmer",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52670000": {
+		"entries": [
+			{
+				"job": "maple_tapping",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52672000": {
+		"entries": [
+			{
+				"job": "judge",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52673000": {
+		"entries": [
+			{
+				"job": "selling_horses",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52674000": {
+		"entries": [
+			{
+				"job": "bartender",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52806000": {
+		"entries": [
+			{
+				"job": "stone",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52807000": {
+		"entries": [
+			{
+				"job": "beaver",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52808000": {
+		"entries": [
+			{
+				"job": "straighten",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52809000": {
+		"entries": [
+			{
+				"job": "grave",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52810000": {
+		"entries": [
+			{
+				"job": "cut",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52857000": {
+		"entries": [
+			{
+				"job": "tomato",
+				"kind": "job"
+			},
+			{
+				"job": "corn",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"52858000": {
+		"entries": [
+			{
+				"job": "grinding",
+				"kind": "job"
+			},
+			{
+				"job": "cereal",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53006000": {
+		"entries": [
+			{
+				"job": "buffelo_bill",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53008000": {
+		"entries": [
+			{
+				"job": "berry",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53045000": {
+		"entries": [
+			{
+				"job": "reporter",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53146000": {
+		"entries": [
+			{
+				"job": "bandit_leader",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53147000": {
+		"entries": [
+			{
+				"job": "stud_farmer",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53148000": {
+		"entries": [
+			{
+				"job": "rain_dance",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53149000": {
+		"entries": [
+			{
+				"job": "vet",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53151000": {
+		"entries": [
+			{
+				"job": "rob_gold_digger",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53152000": {
+		"entries": [
+			{
+				"job": "setting_traps",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53153000": {
+		"entries": [
+			{
+				"job": "doctor",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53154000": {
+		"entries": [
+			{
+				"job": "cartographer",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53155000": {
+		"entries": [
+			{
+				"job": "tailor",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53156000": {
+		"entries": [
+			{
+				"job": "train_mechanic",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53157000": {
+		"entries": [
+			{
+				"job": "ice_cutting",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53159000": {
+		"entries": [
+			{
+				"job": "stealing_food_supplies",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53160000": {
+		"entries": [
+			{
+				"job": "stealing_from_merchants",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53161000": {
+		"entries": [
+			{
+				"job": "beekeeper",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53162000": {
+		"entries": [
+			{
+				"job": "banker",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53163000": {
+		"entries": [
+			{
+				"job": "picking_mushrooms",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53164000": {
+		"entries": [
+			{
+				"job": "build_teepees",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53165000": {
+		"entries": [
+			{
+				"job": "cook",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53167000": {
+		"entries": [
+			{
+				"job": "picking_herbs",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53168000": {
+		"entries": [
+			{
+				"job": "lawyer",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53169000": {
+		"entries": [
+			{
+				"job": "general_store",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53321000": {
+		"entries": [
+			{
+				"job": "swine",
+				"kind": "job"
+			},
+			{
+				"job": "sheeps",
+				"kind": "job"
+			},
+			{
+				"job": "cow",
+				"kind": "job"
+			},
+			{
+				"job": "brand",
+				"kind": "job"
+			},
+			{
+				"job": "lambs",
+				"kind": "job"
+			},
+			{
+				"job": "stealing_cattle",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53435000": {
+		"entries": [
+			{
+				"job": "make_campfire",
+				"req": [
+					{
+						"id": 52965000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53436000": {
+		"entries": [
+			{
+				"job": "destille_alkohol",
+				"req": [
+					{
+						"id": 752000,
+						"mode": "eqp"
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53441000": {
+		"entries": [
+			{
+				"job": "office",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53442000": {
+		"entries": [
+			{
+				"job": "sugar",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53456000": {
+		"entries": [
+			{
+				"job": "rail",
+				"kind": "job"
+			},
+			{
+				"job": "trainstation",
+				"kind": "job"
+			},
+			{
+				"job": "train",
+				"kind": "job"
+			},
+			{
+				"job": "ticket_agent",
+				"kind": "job"
+			},
+			{
+				"job": "train_mechanic",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53549000": {
+		"entries": [
+			{
+				"job": "travelling_salesman",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53818000": {
+		"entries": [
+			{
+				"job": "gem_gathering",
+				"req": [
+					{
+						"id": 1835000,
+						"mode": "inv",
+						"count": 5
+					}
+				],
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53851000": {
+		"entries": [
+			{
+				"job": "construct_lazarett",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53909000": {
+		"entries": [
+			{
+				"job": "spring",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53914000": {
+		"entries": [
+			{
+				"job": "archaeologist",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53915000": {
+		"entries": [
+			{
+				"job": "melting_bullets",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53916000": {
+		"entries": [
+			{
+				"job": "office",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"53917000": {
+		"entries": [
+			{
+				"job": "construct_lazarett",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"54035000": {
+		"entries": [
+			{
+				"job": "ice_cutting",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"54036000": {
+		"entries": [
+			{
+				"job": "make_campfire",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"54038000": {
+		"entries": [
+			{
+				"job": "sugar",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"54261000": {
+		"entries": [
+			{
+				"job": "train_mechanic",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"54262000": {
+		"entries": [
+			{
+				"job": "cartographer",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"54264000": {
+		"entries": [
+			{
+				"job": "digging",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"54265000": {
+		"entries": [
+			{
+				"job": "silver",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"54284000": {
+		"entries": [
+			{
+				"job": "beaver",
+				"kind": "job"
+			},
+			{
+				"job": "coyote",
+				"kind": "job"
+			},
+			{
+				"job": "buffalo",
+				"kind": "job"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": false
+	},
+	"54597000": {
+		"entries": [
+			{
+				"kind": "job",
+				"job": "all"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	},
+	"55045000": {
+		"entries": [
+			{
+				"kind": "job",
+				"job": "rail"
+			}
+		],
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
+	}
+}
