@@ -1,4 +1,4 @@
-/* twdb compat pack "features" generated 2026-10-05T09:00:03.748Z — do not edit; from Compat/packs/features.js */
+/* twdb compat pack "features" generated 2026-10-05T15:40:03.552Z — do not edit; from Compat/packs/features.js */
 /**
  * Compat pack: features (lazy on prod/beta; embedded on dev).
  */
@@ -17,6 +17,8 @@ twdbCompatRegisterTwdsPrefSpecs([
 	{ settingId: "wof_rewards_count", prefKey: "misc_wof_showcount", missingDefault: false, forceValue: false, ourDefaultOn: false, schedule: "twds_retries", syncName: "twdbSyncClothcacheWofRewardsCount", afterForce: function () { if (typeof $ !== "undefined") { $(".TWDS_wof_count").remove() } } },
 	{ settingId: "wof_nuggets_off", prefKey: "misc_avoid_nuggets", missingDefault: false, forceValue: false, ourDefaultOn: false, schedule: "twds_retries", syncName: "twdbSyncClothcacheAvoidNuggets", afterForce: function () { if (typeof changeWofNuggets === "function") { changeWofNuggets() } } },
 ])
+
+let twdbMiniChatTabsTwdsHookRegistered = false
 
 function twdbMitigateClothcacheMiniChatTabs() {
 	if (!Settings.get("mini_chat", false)) {
@@ -3591,6 +3593,46 @@ function twdbMitigateColoredQuestExternals() {
 }
 twdbRegisterExternalMitigation("colored_quest", twdbMitigateColoredQuestExternals)
 
+/**
+ * TWIR employer speed set (Features `emp_speed_set`) + Guidepost wraps — peel then reassert ClothCalc.
+ */
+function twdbMitigateEmployerSpeedSetExternals() {
+	if (!Settings.get("employer_speed_set", true)) {
+		return
+	}
+	twdbMitigateTwirGatedFeature("employer_speed_set")
+	if (typeof twdbPeelTwirSpeedSetWrappers === "function") {
+		try {
+			twdbPeelTwirSpeedSetWrappers()
+		} catch (_e) {
+			/* ignore */
+		}
+	}
+	if (typeof twdbApplyEmployerSpeedSet === "function") {
+		try {
+			twdbApplyEmployerSpeedSet(true)
+		} catch (_e2) {
+			/* ignore */
+		}
+	} else if (typeof snippetsEmployerSpeedSet === "function") {
+		try {
+			snippetsEmployerSpeedSet()
+		} catch (_e3) {
+			/* ignore */
+		}
+	}
+}
+twdbRegisterExternalMitigation("employer_speed_set", twdbMitigateEmployerSpeedSetExternals)
+
+/** TWIR `smart_speed_set` — Features.get force-off while ClothCalc smart sort is on. */
+function twdbMitigateSmartSpeedSetExternals() {
+	if (!Settings.get("smart_speed_set", true)) {
+		return
+	}
+	twdbMitigateTwirGatedFeature("smart_speed_set")
+}
+twdbRegisterExternalMitigation("smart_speed_set", twdbMitigateSmartSpeedSetExternals)
+
 /** Force Clothcache `questgroup_show_intro` off (wrapper checks the setting). */
 function twdbMitigateClothcacheQuestgroupShowIntro() {
 	if (!Settings.get("questgroup_show_intro", false)) {
@@ -3711,16 +3753,6 @@ function twdbMitigateWestfortsImportLink() {
 twdbRegisterExternalMitigation("import_westforts", twdbMitigateWestfortsImportLink)
 
 /** @type {Record<string, boolean>} remembered WTK feature prefs while gated */
-const twdbWtkFeatureUserPrefs = Object.create(null)
-let twdbWtkGetFeatureWrapped = false
-let twdbWtkOpenSettingsWrapped = false
-/** @type {ReturnType<typeof setInterval> | null} */
-let twdbWtkFeatureGuardsRetryTimer = null
-
-function twdbWtkFeatureGateActive(gate) {
-	return twdbCompatSettingOn(gate.settingId, gate.defaultOn)
-}
-
 const TWDB_ESSENTIALS_PORTED_FEATURES = [
 	["hide_completed_achievements", "AchievHide", true],
 	["city_travel_time", "CityTravel", true],

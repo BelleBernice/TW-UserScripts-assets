@@ -63,13 +63,6 @@ registerSetting({
 	groupLangKey: "settings.item_tooltip_group",
 })
 registerSetting({
-	id: "map_job_owned_count",
-	langKey: "settings.map_job_owned_count",
-	defaultValue: true,
-	groupLangKey: "settings.item_tooltip_group",
-	apply: "instant",
-})
-registerSetting({
 	id: "item_tooltip_craft_table",
 	langKey: "settings.item_tooltip_craft_table",
 	defaultValue: true,
@@ -150,6 +143,18 @@ registerSetting({
 	apply: "instant",
 })
 registerSetting({
+	id: "employer_speed_set",
+	langKey: "settings.employer_speed_set",
+	defaultValue: true,
+	apply: "instant",
+})
+registerSetting({
+	id: "smart_speed_set",
+	langKey: "settings.smart_speed_set",
+	defaultValue: true,
+	apply: "instant",
+})
+registerSetting({
 	id: "questgroup_show_intro",
 	langKey: "settings.questgroup_show_intro",
 	defaultValue: false,
@@ -208,6 +213,12 @@ registerSetting({
 	apply: "instant",
 })
 registerCategory("settings.category_jobs")
+registerSetting({
+	id: "map_job_owned_count",
+	langKey: "settings.map_job_owned_count",
+	defaultValue: true,
+	apply: "instant",
+})
 registerSetting({
 	id: "job_queue_bar_offset",
 	langKey: "settings.job_queue_bar_offset",
@@ -295,11 +306,7 @@ registerSetting({
 	id: "fortbattle_enhanced_recruitment",
 	langKey: "settings.fortbattle_enhanced_recruitment",
 	defaultValue: true,
-})
-registerSetting({
-	id: "fortbattle_enhanced_recruitment_v2",
-	langKey: "settings.fortbattle_enhanced_recruitment_v2",
-	defaultValue: false,
+	apply: "instant",
 })
 registerSetting({
 	id: "fortbattle_player_icons",

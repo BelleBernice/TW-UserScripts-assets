@@ -1,0 +1,972 @@
+{
+	"changelog_types": {
+		"feature": "FEATURE",
+		"bugfix": "BUGFIX",
+		"main": "MAINTENANCE",
+		"dev": "DEV"
+	},
+	"changelog": [
+		{
+			"version": {
+				"R": 0,
+				"M": 42,
+				"F": 2
+			},
+			"changes": {
+				"feature": [
+					"Calc — faster wearItemIds (slot diff only, no artificial delay)",
+					"Quests — speed set skips dress/restore when the outfit already matches",
+					"Calc — TWDB.Calc best-mode library (ms / fort / job skill scoring + wearItemIds)",
+					"Quests — employer_speed_set: Use Speed Set on Guidepost + divert quest-giver Walk",
+					"Quests — smart_speed_set: prefer speed outfits that do not drop HP",
+					"Compat — gate TWIR employer_speed_set / smart_speed_set while ClothCalc counterparts are on"
+				],
+				"bugfix": [
+					"Quests — Use Speed Set: shows a gear-lock hint instead of a silent Please wait; wearItemIds surfaces carry/uncarry errors and aborts the walk",
+					"Quests — Use Speed Set: shows Please wait when gear lock blocks dress/walk (hint deferred until Guidepost closes)",
+					"Quests — Use Speed Set: blocked while church / fair / fort construction is queued (not only WearSet lock flags)",
+					"Quests — Use Speed Set: aborts with Please wait when dress/restore would touch gear locked by an active job, town/fort/fair build, or craft"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 42,
+				"F": 1
+			},
+			"changes": {
+				"feature": [
+					"Chat — /h is an alias for /help (same Operations help listing)"
+				],
+				"bugfix": [
+					"Chat / Compat — restore mini-chat peel hook; isolate mitigate so Clothcache defaultcolor/swap/findplayer still peel; hide Ops peel-trap marker from /help"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 42,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Compat — Clothcache /help peel rebuilt so defaultcolor / swap / findplayer-as-mark cannot reappear after late fort-chat registration",
+					"Compat — Clothcache /help peel also drops defaultcolor, /swap, and findplayer-as-mark (match shorthelp/cmd + keep reapply while TWDS startFuncs finish)",
+					"Compat — Clothcache chat slash peel works again (real peel is in-bundle; pack stubs left duplicate /help mark entries)"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 41,
+				"F": 1
+			},
+			"changes": {
+				"dev": [
+					"Fort init — call enhanceFortRecruitment (v2 file removed; enhanceFortRecruitmentV2 was undefined after rebuild)",
+					"Internal test harness + fixtures for core seams (tooltip / progress / bag / registry) — no gameplay change",
+					"Phase 5 seams — QuestJobDrops, ProgressBar, EquipSets, BagDom; hot paths migrated (tooltip quest jobs, analyzers progress, equip, inventory pin)",
+					"FortBattlePopup deep module seam + WearStore/PinSession; shared InputModifiers for Fort popup and ItemTooltipV2",
+					"Compat pack-only seam (onFeatureEnable/Disable, ensureForeignQuiet, Clothcache/Twir/Essentials/ItemPopup ports)",
+					"ItemTooltipV2 deep module seam (install/enhance/setEnabled); getXHTML via TWGame; in-place enhancePopup",
+					"TWGame port seam + FeatureRegistry foundation; scrollbars_off, wear_close, building_progress, job_queue_bar_offset on declarative boot"
+				]
+			},
+			"channel": "dev"
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 41,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Compat — re-export eval'd pack twdb* into outer IIFE slots (Firefox eval scope); typeof-guards on Essentials FeatureGuards",
+					"Inventory pin — revert deferred pin/peel + refresh workarounds (too unstable with TWIR bag fill)"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 15
+			},
+			"changes": {
+				"dev": [
+					"Compat — table-driven TWDS pref engine; race-critical gates stay inline; peel pack lazy from CDN on prod/beta when a conflict userscript is present (dev still embeds)"
+				]
+			},
+			"channel": "dev"
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 14
+			},
+			"changes": {
+				"feature": [
+					"Telegrams — optional enhance_telegrams header/content layout; author closes the BB slot when telegram_bb_codes is off",
+					"Telegrams — telegram_bb_codes moves author right of the BB toggle via :has(.telegram_source)"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 13
+			},
+			"changes": {
+				"feature": [
+					"Telegrams — telegram_bb_codes removes Clothcache telegram header 0.85 CSS when BB toggle is on (layout from telegram.css)"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 12
+			},
+			"changes": {
+				"bugfix": [
+					"Compat — clothcache_itemusageinfo peels .TWDS_itemusageinfo via MutationObserver / inventory events only (wrapping InventoryItem.initDisplay raced TWIR and emptied #bag)"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 11
+			},
+			"changes": {
+				"feature": [
+					"Shop search — Storesearch sidebar button for items in town NPC shops (Clothcache TWDS.shopsearch; default on); Collections $ shoplink + quest_util_shop prefer it",
+					"Compat — when achievement_collections_tab / alliance_world_map / shop_search are on, disable Clothcache Collections Extra, Alliance map Extra, Shopsearch Extra + peel Clothcache AchievementWindow.open"
+				],
+				"bugfix": [
+					"Collections tab — recover AchievementWindow via getInstance when Clothcache open wrap returns undefined",
+					"Esc — no longer closes chat rooms (.tw2gui_window.chat); still reward → dialog → top non-chat window"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 10
+			},
+			"changes": {
+				"feature": [
+					"Collections tab — rebuilt on Achievements (Clothcache TWDS.collections) via GameInject; cache-first paint + silent background refresh"
+				],
+				"bugfix": [
+					"Alliance world map — draw all forts (grey fallback when alliance is off legend / no alliance)",
+					"Alliance world map — tooltips via MousePopup only (no native title double-popup on Medium level)",
+					"Alliance world map — sidebar icon uses miniicon_own_forts-1.png (miniicon_fort.png is CDN 404)",
+					"Collections tab — Achievements inject defers addTab until tabbar layout + orphan tabIds + WINDOW_OPENED backup"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 9
+			},
+			"changes": {
+				"feature": [
+					"Settings — checkbox after Search to show/hide red conflicting-userscript labels (hover popup; saved; default off / hidden)",
+					"Compat — clothcache_itemusageinfo: disable Clothcache item-usage badges (default off)",
+					"Compat — clothcache_recruiting_window: disable Clothcache Recruiting Window (default off)",
+					"Fort battle — fortbattle_prebattle_center: center fort on world map from prebattle (removes TWDS_prebattle_scroll)",
+					"Alliance world map — sidebar button (Clothcache TWDS.allimap; default on); parallel name loading; hide towns without alliance; ranking icons + sortable headers",
+					"Alliance world map — Average level + Fort battle participations columns (from alliance get_data chars)",
+					"Collections tab — missing-items list on Achievements (Clothcache TWDS.collections; default on); defer addTab until tabbar ready"
+				],
+				"bugfix": [
+					"Market sell dialog — bid/buy checkboxes fill and clear #market_min_bid / #market_max_price; retry after race with Clothcache market enhance",
+					"Clothcache Recruiting Window — always hideLoader after TWDS.recruit.load (stuck spinner with Enhanced Recruitment); Ajax.remoteCall duel hooks forward view arg"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 8
+			},
+			"changes": {
+				"feature": [
+					"Item tooltips V2 — sole enhanced tooltip (legacy revamp removed); set event + year + icon; swap-diff when replacing worn gear; craft/recipe bars with owned + xN badges",
+					"Item tooltips — shortcut hints (hold Ctrl); Alt+click copy [item=id]; Ctrl+click open tw-calc.net; Shift+click insert into open chat; Ctrl/Alt scroll; per-level Alt preview",
+					"Item tooltips — quest job-drop tables from quest_job_drops.json; multi-job drop list; compare beside slot; job/product craft-style bars",
+					"Item tooltips — animal travel speed vs bonus speed kept separate; usable effect absolute gains; recipe learn owned pill; Winner badge on ranking sets"
+				],
+				"bugfix": [
+					"Item tooltips — no crash on set items; craft ingredient icons resolve again; swap-diff sign for negative bonuses; chat/telegram/notes [item=] paint; TWIR search lag fixed",
+					"Item tooltips — first-hover compare layout; prices / non-tradeable restored; recipe Requires row; Alt mode not stuck after Alt+Tab; narrow shortcut hints"
+				]
+			},
+			"title": "Item tooltips"
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 7
+			},
+			"changes": {
+				"feature": [
+					"Fort battle popup — enriched cell tooltip (pre + live): HP, ranks, online, bonuses, destiny, damage, weapon buff; pin stack; Shift+click pin; Ctrl/Shift scroll",
+					"Fort battle popup — attacker/defender stripe; 5-line Alt layout (terrain % / vanilla / set-sector); wear cache per fort; appoint ranks 1–N",
+					"Fort battle — own-traitor lockdown (hide topic, contacts, foreign icons); cemetery criticals columns; enhanced recruitment HP + grade counts",
+					"Fort battle — player colors picker; map orders (dev build); Esc closes top window; fort overview name shrink-to-fit"
+				],
+				"bugfix": [
+					"Fort battle popup — no jump while wear profiles drip in; class tower attributebonus; destiny column width; bonus chips stay one row",
+					"Fort battle — blank window when registered in a second battle; player color borders without clicking each player; isStartArea crash guard"
+				]
+			},
+			"title": "Fort battle"
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 6
+			},
+			"changes": {
+				"feature": [
+					"Chat color picker — single disk with all 1000 game colors; RGB ±; bold/CAPS; history grid; wheel zoom / right-drag pan",
+					"Chat — profession icons on contacts (craft points); SES event icon in emoticon picker; highlight words; Alt name auto-complete in fort battle",
+					"Chat — fort traitor contact redaction; hide topic/online for own traitor"
+				],
+				"bugfix": [
+					"Chat — bold/CAPS hover buttons sync from color dialog; SES icon sized like emoticons"
+				]
+			},
+			"title": "Chat"
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 5
+			},
+			"changes": {
+				"feature": [
+					"Messages analyzers — Jobs / Duels / Chest tabs with progress bars and deferred render",
+					"Duels Analyzer — per-opponent PvP/NPC stats, history drilldown, XP*/DX*, motivation-adjusted expected XP",
+					"Chests Analyzer — event/WoF dropdown with tiers; free/paid spend breakdown; advent calendar + fair drops",
+					"Jobs Analyzer — faster table render; lazy item widgets; revolver loader during report sync"
+				],
+				"bugfix": [
+					"Duels Analyzer — parse from reportInfo; dedupe by report_id; damage attribution; layout aligned with Jobs Analyzer",
+					"Chests Analyzer — WoF free-spin / bribe / SES pay labels; Day of the Dead eventType; ignore buff-only useables",
+					"Jobs Analyzer — cells populate after render; queue keeps moving on failed show_report"
+				]
+			},
+			"title": "Analyzers"
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 4
+			},
+			"changes": {
+				"feature": [
+					"Task list logs — queue section with icons, Today/Tomorrow labels, server-time countdowns, friends/WoF/trader/events rows",
+					"Task list — favicon status indicators; progress bar tracks current task",
+					"Telegrams — Read all with analyzer-style progress bar"
+				],
+				"bugfix": [
+					"Task list logs — no badge/window flash; fair midnight uses server date; mobile trader ajax without opening bond shop; friends refresh on add/remove",
+					"Task list favicon — no duplicate data-URI load; disable clothcache task-queue favicon while ours is active"
+				]
+			},
+			"title": "Task list & telegrams"
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 3
+			},
+			"changes": {
+				"feature": [
+					"Shops — owned-count pills (Union Pacific / town / event / WoF) under a common settings header; town shop name search + missing-collectibles filter",
+					"Collector — NEW ribbon + native trophy/toolbox badges; TWIR offsets when NEW is present",
+					"Market — improved rights icons; Offer tab bid summary; sell dialog restore; trader multi-sell",
+					"Equipment manager+ — rename/sort/colors; Equip/Replace/Rename/Delete icons; min width 550px"
+				],
+				"bugfix": [
+					"Shops — collector NEW / TWIR stacking on all tiles; owned counts refresh after buy/sell; no wandering-trader crash",
+					"Market — skip invalid sell_rights on What Is Hot; buy-offer item resolve from #auction_item_slot",
+					"Equipment manager+ — icons survive list rebuild; hover gaps; action tooltips after DOM insert"
+				]
+			},
+			"title": "Shops, market & equipment"
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 2
+			},
+			"changes": {
+				"feature": [
+					"Settings — conflict userscript labels (Clothcache / TWIR / Essentials / Toolkit / tw-calc / TWFBT); multi-script export/import; categories rearranged",
+					"Settings — instant live apply for gated options; night_mode; wof_oktoberfest_speedup; wof_nuggets_off; esc_close_window",
+					"Compat — sticky gates + Instant peel for overlapping foreign features (tooltips, quests, fort, shops, market, banking, …)",
+					"Essentials ports — Scripts menubar, chat profession icons, hide completed achievements, city travel time, solved quest search, work notifications clear"
+				],
+				"bugfix": [
+					"Compat — Essentials disablers peel live _twx hooks; solved_quest_search unwraps QuestBookSearch; no duplicate Scripts button",
+					"Settings export/import — list overflow / modal curtain; running-now badge uses runtime globals only",
+					"Dark theme — no double dimming on town/alliance forum iframe"
+				]
+			},
+			"title": "Settings & compatibility"
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 1
+			},
+			"changes": {
+				"feature": [
+					"Quests — tracker ready highlight; employer CDN watch (dev); quest util craft/market/shop shortcuts deduped vs TW-Calc / clothcache",
+					"Misc — church current vs max level; close Premium Energy popup; inventory bulk-sale colors; NotiBar scroll centering; RankingStore shared cache",
+					"Improved cityhall — ally overview layout, invitations footer, invite-town grid"
+				],
+				"bugfix": [
+					"Sheriff min bounty — ranking name search fallback; wait for create-tab inputs",
+					"Language — override only while Game.locale matches langOverrideBaseLocale; empty-string defaults intentional",
+					"Prod — registerDuelAnalyzerFeature stub instead of missing dev module crash"
+				]
+			},
+			"title": "Quests & misc"
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 40,
+				"F": 0
+			},
+			"changes": {
+				"main": [
+					"Naming — snake_case modules, classes, twdb_* identifiers; kebab filenames → snake; CssBundle keys unchanged",
+					"CDN — jsDelivr only via public TW-UserScripts-assets; whispers under assets/whispers; publish_assets.mjs for prod+beta",
+					"Build — settings/CSS split prod / beta / dev; ResourceLoader channel deltas; images.json WebP recompress",
+					"International — en_DK rebuilt/synced from el_GR"
+				],
+				"dev": [
+					"Dev Features Platform — TWDB.devFeatures, *.dev.js auto-discovery, stubs+assertApi, twdb_dev_feature CLI, docs/dev_features.md",
+					"Dev tab — Set events + Quest job drops catalogs (sync/edit/export); fort map orders + taskqueue demo are development-build only",
+					"Prod omits Dev tab modules, set-event review UI, CssBundle.dev, languages/dev strings; beta keeps remote ResourceLoader fetch",
+					"twdb_dev_feature CLI moves CSS between styles/dev/ and styles/features/ on on/off --apply"
+				]
+			},
+			"title": "Maintenance & build"
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 39,
+				"F": 0
+			},
+			"changes": {
+				"main": [
+					"Changelog: version in JSON is R.M.F; updater shows R.M.F",
+					"New version features page + general code cleanup",
+					"Quest coloring: better coexistence with TWIR (buildQuestLog)"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 38,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"/ff only in fort battle room; fewer errors when window isn't ready",
+					"Per-round stats: a little padding on the hits/misses row",
+					"Profile description click: if it's a link, settings don't open",
+					"Equipment sets: cleaner hover + rename without fragile regex"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 37,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Pre-battle class icons: fallback when there's no patchable renderChars from other scripts",
+					"/ff Alt completion: keeps the full multi-word name for the first player",
+					"Recruitment: name filter not lost after sort/redraw",
+					"Recruitment with TWIR: no duplicate mail / @Name buttons",
+					"Rank/HP headers: icons that don't steal clicks from sorting"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 36,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Equipment set management: rename, sort, different color per row, fewer clicks",
+					"Main notification bar: icon limit 2-8"
+				],
+				"bugfix": [
+					"Job collectible: icon and tooltip no longer cut off awkwardly",
+					"Job luck %: in the correct position (next to duration)",
+					"Duel: % in bar matches hover (not 100% when it's 99%)"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 35,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Job window: collectible item, luck % per duration",
+					"Player profile: crafting points for the profession",
+					"Own profile: click on description to go to settings",
+					"Quest tracker: highlight when something is ready to complete",
+					"Event currency: one click on the icon to send to all friends"
+				],
+				"bugfix": [
+					"Church: wrong negative points when opened from task list",
+					"Church: build stages and point sync more stable"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 34,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Battle chat: HP lines per round, same 'meaning' as the fort UI",
+					"Cell/player hover 'pinned' to the top of the window",
+					"Recruitment tab: columns, HP, name search",
+					"Fort battle: icons for character categories",
+					"Fort battle: show fort chat topic",
+					"Event rewards: inventory counter + wider rewards window"
+				],
+				"bugfix": [
+					"Improved duel motivation bar"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 33,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Daily activities: highlight if you've done fewer than three",
+					"Telegrams: highlight if there are unread messages",
+					"Sheriff: bounty automatically raised to minimum for target's duel level",
+					"VIP: remaining time on the icon",
+					"Market (sell): small statistics for items sold / with bid / dollars earned"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 32,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Town window: alliance name in overview",
+					"Union Pacific & town shops: count of items you have in inventory",
+					"Completed quests: show intro text",
+					"Quest window: quick links (crafting, market, town shops, equip, inventory count)",
+					"Better list for 'last fort battles'"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 31,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Minimap: shortcuts ghost/g, indian/i, center/c, home/h",
+					"Dark theme on external The-West pages",
+					"Center map on nearest job",
+					"Less 'opening' animation for job group on map (option)",
+					"Fort battle list: easier jump to fort + count of declared battles",
+					"Friends button: shows how many open friend requests you have",
+					"Avatar and notification bar: more comfortable layout at the edges of the window"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 30,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Chat commands: /active, /ping, /ff, /find, /mark, /colorful, /uncolor",
+					"Fort battle: map orders from the sidebar (Alt+click, send to chat)",
+					"/ff: second English line for swaps (if not en_DK) + separate on/off",
+					"Fort battle: color/clear names with saved colors",
+					"When two+ players are on the same cell, they appear more clearly"
+				],
+				"bugfix": [
+					"Chat rooms: minimize works correctly again"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 29,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Fix old code of the Language Switch feature"
+				],
+				"main": [
+					"Refactoring and cleanup of the UserScript code"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 28,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Added 'temporary' Language Switch feature"
+				],
+				"bugfix": [
+					"Settings tab code cleanup",
+					"Saloon chat color feature code cleanup",
+					"Bonus jobs on Minimap feature code cleanup",
+					"Job/Chests Analyzer feature code cleanup"
+				],
+				"main": [
+					"Modernization of various UserScript code features"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 27,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Added Settings Import/Export feature"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 26,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Added fort battle import to the website database (westforts.com)",
+					"Added Whisper sound change feature",
+					"Added damage dealt per player during a fort battle",
+					"Added shots per round during a fort battle",
+					"Added color to quests that can be completed",
+					"Added button to automatically accept and complete quests that can be completed"
+				],
+				"bugfix": [
+					"Restored code for selling all but one selected item at the Trader",
+					"Fixed old code for the option that shows labor points in job windows",
+					"Fixed the code for the automatic Market opening option, so the clothing window minimizes",
+					"Fixed code in the construction tab when TWIR is present"
+				],
+				"main": [
+					"Rearrangement of categories in the Settings tab"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 25,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Added Dark Theme option for The-West Map",
+					"Improved the sale report icon in the Market building purchase window",
+					"Added icon for whether market offers are public, alliance-only or town-only",
+					"Added a new button for easy opening of the Market window"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 24,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Added Regeneration Timers to the player portrait",
+					"Added text selection in Town Forums",
+					"Added option to pin the Menu, Experience and UserScript bar on screen",
+					"Added duel experience to the player profile"
+				],
+				"bugfix": [
+					"Fixed Recruitment tab",
+					"Disabled automatic activation of some features"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 23,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Fixed some settings messages",
+					"Fixed Recruitment tab"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 22,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Added critical hits and ghost rounds to the fort cemetery",
+					"Added window for owned and alliance forts in the town window",
+					"Added automatic opening of the fort from the battle axe dig-up report",
+					"Improved all Rankings tables",
+					"Improved the Recruitment window before a fort battle",
+					"Removed the Town button blink when there is a new message in the Town Forum"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 21,
+				"F": 0
+			},
+			"changes": {
+				"feature": [
+					"Added building progress to the construction tab",
+					"Added additional church levels",
+					"Added feature to show only buildings not fully constructed in the Town Hall",
+					"Added a new button for easy opening of the Church construction tab",
+					"Added a button to close only the Inventory windows"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 20,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Oops! Fixed version code"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 19,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Fixed new version link"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 18,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Fixed version in some places, hopefully!"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 17,
+				"F": 1
+			},
+			"changes": {
+				"bugfix": [
+					"Fixed version in some places"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 17,
+				"F": 0
+			},
+			"changes": {
+				"main": [
+					"Removed revision"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 16,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Changed new version features link"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 15,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Fixed deprecated code used by the UserScript"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 14,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Changed details in the Recruitment window"
+				],
+				"main": [
+					"Removed unnecessary code"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 13,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Oops! Fixed the UserScript"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 12,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Fixed incorrect version"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 11,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Removed unnecessary code in the Recruitment window"
+				],
+				"main": [
+					"Changed Updater"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 10,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Fixed item pin for correct display in vanilla and TWIR Inventory window",
+					"Fixed spelling of 'bugfix' in Version Features"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 9,
+				"F": 0
+			},
+			"changes": {
+				"main": [
+					"Code cleanup - part 2",
+					"Changed some hyperlinks"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 8,
+				"F": 0
+			},
+			"changes": {
+				"main": [
+					"Code cleanup - part 1"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 7,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Updated hyperlinks for auto-update"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 6,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Changed some hyperlinks"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 5,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Oops! Fixed the UserScript"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 4,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Fix for feature removal"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 3,
+				"F": 0
+			},
+			"changes": {
+				"main": [
+					"Removed many useless features"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 2,
+				"F": 0
+			},
+			"changes": {
+				"bugfix": [
+					"Fixed some typos"
+				],
+				"main": [
+					"Changed version formula"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 1,
+				"F": 0
+			},
+			"changes": {
+				"main": [
+					"** UserScript created by clothcalc_sk **"
+				]
+			}
+		}
+	]
+}
