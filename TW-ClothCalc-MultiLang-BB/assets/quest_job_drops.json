@@ -15,8 +15,33 @@
 						"type": "item",
 						"id": 1796000,
 						"mode": "eqp"
+					},
+					{
+						"type": "attr",
+						"key": "strength",
+						"op": ">=",
+						"value": 100
+					},
+					{
+						"type": "skill",
+						"key": "tactic",
+						"op": "=",
+						"value": 5000
+					},
+					{
+						"type": "level",
+						"op": "<",
+						"value": 200
 					}
 				]
+			},
+			{
+				"kind": "quest",
+				"questGroup": "Quest Group",
+				"questName": "Quest Name",
+				"questId": 0,
+				"employerKey": "indian",
+				"employer": "Waupee"
 			}
 		],
 		"source": "manual",

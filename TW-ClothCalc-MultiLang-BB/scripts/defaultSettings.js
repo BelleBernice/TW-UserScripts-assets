@@ -25,6 +25,12 @@ registerSetting({
 	defaultValue: false,
 })
 registerSetting({
+	id: "clothcache_itemusageinfo",
+	langKey: "settings.clothcache_itemusageinfo",
+	defaultValue: false,
+	apply: "instant",
+})
+registerSetting({
 	id: "equip_manager_plus",
 	langKey: "settings.equip_manager_plus",
 	defaultValue: true,
@@ -309,6 +315,18 @@ registerSetting({
 	id: "fortbattle_chat_topic",
 	langKey: "settings.fortbattle_chat_topic",
 	defaultValue: true,
+})
+registerSetting({
+	id: "fortbattle_prebattle_center",
+	langKey: "settings.fortbattle_prebattle_center",
+	defaultValue: true,
+	apply: "instant",
+})
+registerSetting({
+	id: "clothcache_recruiting_window",
+	langKey: "settings.clothcache_recruiting_window",
+	defaultValue: false,
+	apply: "instant",
 })
 registerSetting({
 	id: "fortbattle_declare_reports",
@@ -660,9 +678,16 @@ registerSetting({
 	defaultValue: true,
 })
 registerSetting({
+	id: "enhance_telegrams",
+	langKey: "settings.enhance_telegrams",
+	defaultValue: true,
+	apply: "instant",
+})
+registerSetting({
 	id: "telegram_bb_codes",
 	langKey: "settings.telegram_bb_codes",
 	defaultValue: true,
+	apply: "instant",
 })
 registerSetting({
 	id: "read_all_telegrams",
@@ -680,6 +705,11 @@ registerCategory("settings.category_misc")
 registerSetting({
 	id: "hide_completed_achievements",
 	langKey: "settings.hide_completed_achievements",
+	defaultValue: true,
+})
+registerSetting({
+	id: "achievement_collections_tab",
+	langKey: "settings.achievement_collections_tab",
 	defaultValue: true,
 })
 registerSetting({
@@ -836,6 +866,18 @@ registerSetting({
 	langKey: "settings.button_market",
 	groupLangKey: "settings.automation_buttons",
 	defaultValue: false,
+})
+registerSetting({
+	id: "alliance_world_map",
+	langKey: "settings.alliance_world_map",
+	groupLangKey: "settings.automation_buttons",
+	defaultValue: true,
+})
+registerSetting({
+	id: "shop_search",
+	langKey: "settings.shop_search",
+	groupLangKey: "settings.automation_buttons",
+	defaultValue: true,
 })
 registerSetting({
 	id: "upshop_show_count",
