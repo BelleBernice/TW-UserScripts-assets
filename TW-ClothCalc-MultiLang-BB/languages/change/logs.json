@@ -10,6 +10,19 @@
 			"version": {
 				"R": 0,
 				"M": 42,
+				"F": 3
+			},
+			"channel": "dev",
+			"changes": {
+				"feature": [
+					"Dev — Analytics tab: anonymous local sessions, copy/paste dumps, optional Cloudflare Worker ingest"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 42,
 				"F": 2
 			},
 			"changes": {
