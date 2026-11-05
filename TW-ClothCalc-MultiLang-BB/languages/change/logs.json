@@ -7,6 +7,179 @@
 	},
 	"changelog": [
 		{
+			"version": { "R": 0, "M": 42, "F": 11 },
+			"channel": "dev",
+			"changes": {
+				"feature": [
+					"Fort battles - replay old battles with animated combat effects and playback controls"
+				]
+			}
+		},
+		{
+			"version": { "R": 0, "M": 42, "F": 11 },
+			"channel": "dev",
+			"changes": {
+				"bugfix": [
+					"Daily experience - grow the report window to fit additional source rows"
+				]
+			}
+		},
+		{
+			"version": { "R": 0, "M": 42, "F": 11 },
+			"channel": "dev",
+			"changes": {
+				"bugfix": [
+					"Graveyard - open old battles when the Fort Battle Assistant is enabled"
+				]
+			}
+		},
+		{
+			"version": { "R": 0, "M": 42, "F": 11 },
+			"channel": "dev",
+			"changes": {
+				"bugfix": [
+					"Windows - Esc leaves chat input focus so it can close the current non-chat window"
+				]
+			}
+		},
+		{
+			"version": { "R": 0, "M": 42, "F": 11 },
+			"channel": "dev",
+			"changes": {
+				"bugfix": [
+					"Daily experience - sanitize saved XP records so quest rewards cannot turn the badge total into NaN"
+				]
+			}
+		},
+		{
+			"version": { "R": 0, "M": 42, "F": 11 },
+			"channel": "dev",
+			"changes": {
+				"feature": [
+					"Dev tools — reorganize Analytics into a scannable dashboard with ranked session breakdowns"
+				]
+			}
+		},
+		{
+			"version": { "R": 0, "M": 42, "F": 11 },
+			"channel": "dev",
+			"changes": {
+				"bugfix": [
+					"Dev tools — align the Analytics panel switcher with Set events and Quest job drops"
+				]
+			}
+		},
+		{
+			"version": { "R": 0, "M": 42, "F": 11 },
+			"channel": "dev",
+				"changes": { "feature": ["Daily experience - track experience from quests", "Daily experience - sort source breakdowns by any column"], "bugfix": ["Daily experience - remove the demo window", "Daily experience - use the vanilla minimized window background for the badge", "Daily experience - style the badge to match vanilla XP rewards", "Daily experience - improve the summary and source table layout", "Daily experience - fit every demo source inside the window and use the vanilla experience bar styling", "Daily experience - add table cell spacing and simplify source bars", "Daily experience - give percentage values enough room in the source table and keep the table within the window", "Daily experience - combine source percentages with their experience bars", "Daily experience - compact and center the table header, restore a short footer, and use the vanilla day selector", "Daily experience - use the vanilla report bar and fill", "Daily experience - align report bars and percentage labels, and refine table spacing", "Daily experience - center and align report bars and match the chat inset summary", "Daily experience - disable selection across the window and align values in the table rows"] }
+		},
+		{
+			"version": { "R": 0, "M": 42, "F": 11 },
+			"channel": "dev",
+			"changes": {
+				"feature": [
+					"Start refresh-visible UI from saved settings before the full game bootstrap completes"
+				]
+			}
+		},
+		{
+			"version": { "R": 0, "M": 42, "F": 11 },
+			"channel": "dev",
+			"changes": {
+				"feature": [
+					"Task queue logs - open the Mobile trader from its refresh row"
+				]
+			}
+		},
+		{
+			"version": { "R": 0, "M": 42, "F": 10 },
+			"channel": "dev",
+			"changes": {
+				"bugfix": [
+					"Task queue logs - use cooldown items through their vanilla action on click"
+				]
+			}
+		},
+		{
+			"version": { "R": 0, "M": 42, "F": 10 },
+			"channel": "dev",
+			"changes": { "feature": ["Daily experience tracker with a source breakdown and history"] }
+		},
+		{
+			"version": { "R": 0, "M": 42, "F": 9 },
+			"channel": "dev",
+			"changes": {
+				"feature": [
+					"Task queue logs - open vanilla item popups from event shop and cooldown rows"
+				]
+			}
+		},
+		{
+			"version": { "R": 0, "M": 42, "F": 8 },
+			"changes": {
+				"feature": [
+					"Owned item counts are now shown in Day of the Dead reward previews when enabled",
+					"Chest analyzer - track failed Day of the Dead games and Cempasúchil rewards separately from chest drops"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 42,
+				"F": 7
+			},
+			"channel": "dev",
+			"changes": {
+				"feature": [
+					"Task queue logs - open event windows from free spin rows"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 42,
+				"F": 6
+			},
+			"channel": "dev",
+			"changes": {
+				"feature": [
+					"Task queue logs - use the Day of the Dead card icon"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 42,
+				"F": 5
+			},
+			"channel": "dev",
+			"changes": {
+				"bugfix": [
+					"Task queue logs - show the next free Day of the Dead card spin"
+				]
+			}
+		},
+		{
+			"version": {
+				"R": 0,
+				"M": 42,
+				"F": 4
+			},
+			"channel": "dev",
+			"changes": {
+				"feature": [
+					"Chest Analyzer - remove individual loot records with item preview and quantity controls"
+				],
+				"bugfix": [
+					"Chest Analyzer - Day of the Dead card rewards are recorded only when collected"
+				]
+			}
+		},
+		{
 			"version": {
 				"R": 0,
 				"M": 42,

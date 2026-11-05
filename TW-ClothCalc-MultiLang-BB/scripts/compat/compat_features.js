@@ -1,4 +1,4 @@
-/* twdb compat pack "features" generated 2026-10-28T23:23:12.475Z — do not edit; from Compat/packs/features.js */
+/* twdb compat pack "features" generated 2026-11-05T09:35:00.212Z — do not edit; from Compat/packs/features.js */
 /**
  * Compat pack: features (lazy on prod/beta; embedded on dev).
  */
@@ -4807,6 +4807,22 @@ function twdbMitigateClothcacheShopSearchOverlapWithRetry() {
 twdbRegisterExternalMitigation("achievement_collections_tab", twdbMitigateClothcacheCollectionsOverlapWithRetry)
 twdbRegisterExternalMitigation("alliance_world_map", twdbMitigateClothcacheAllianceMapOverlapWithRetry)
 twdbRegisterExternalMitigation("shop_search", twdbMitigateClothcacheShopSearchOverlapWithRetry)
+
+/** Remove the Fort Battle Assistant's replay button while ClothCalc replay is enabled. */
+let twdbAssistantReplayObserver = null
+function twdbMitigateFortBattleAssistantReplay() {
+	const removeReplayButtons = () => {
+		if (!Settings.get("fortbattle_replay", false)) return
+		try { document.querySelectorAll(".fbr-replay-btn").forEach(node => node.remove()) } catch (_e) { /* ignore */ }
+	}
+	removeReplayButtons()
+	if (!twdbAssistantReplayObserver && document.body && typeof MutationObserver !== "undefined") {
+		twdbAssistantReplayObserver = new MutationObserver(removeReplayButtons)
+		twdbAssistantReplayObserver.observe(document.body, { childList: true, subtree: true })
+	}
+}
+twdbRegisterExternalMitigation("fortbattle_replay", twdbMitigateFortBattleAssistantReplay)
+
 ;(function () {
 	try {
 		const __fn = eval("twdbMitigateClothcacheMiniChatTabs")

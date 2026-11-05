@@ -16,6 +16,14 @@
 		"edit": "Edit",
 		"search": "Search"
 	},
+	"daily_exp": {
+		"title": "Daily experience",
+		"badge_title": "Experience gained today. Click for the source breakdown.",
+		"day": "Day", "today": "Today", "total": "Total", "source": "Source", "count": "Count",
+		"experience": "Experience", "start": "From", "now": "Now", "empty": "No experience recorded for this day.",
+		"job": "Jobs", "duel": "Player duels", "npc": "Bandit duels", "bonus": "Daily bonus",
+		"quest": "Quests", "fort": "Fort battles", "other": "Other", "offline": "While offline"
+	},
 	"misc": {
 		"notes_title": "Notes",
 		"color_dialog_bold": "bold",
@@ -145,6 +153,7 @@
 		"twdb_title_with": "TW-DB.info - $title$"
 	},
 	"settings": {
+		"daily_exp": "Track daily experience by source",
 		"save_to_reload": "Clicking \"Ok\" will automatically reload the page to apply your changes.",
 		"title": "Settings",
 		"conflicts_hint": "Conflicting Userscripts shown with [color=#c00]red[/color]",
@@ -213,6 +222,7 @@
 		"fortbattle_declare_reports": "Link the battle axe dig-up report to the specific attacking fort",
 		"forts_owned": "Fort Ownership in town profiles",
 		"fortbattle_cemetery_criticals": "Critical hits and Ghost Rounds in the fort cemetery",
+		"fortbattle_replay": "Replay old fort battles from the cemetery",
 		"fortbattle_total_dmg": "Total damage dealt in each player's description during a fort battle",
 		"fortbattle_round_info": "Hits, misses, received hits and dodges per round",
 		"fortbattle_player_colors": "Add color/clear buttons to the player info tab in the fort battle",
@@ -676,6 +686,12 @@
 		"job_title_short": "Jobs",
 		"chest_title": "Chests Analyzer",
 		"chest_title_short": "Chests",
+		"chest_remove_title": "Remove chest analyzer records",
+		"chest_remove_prompt": "How many records do you want to remove?",
+		"chest_remove_invalid": "Enter a whole number between 1 and $max$.",
+		"chest_remove_decrease": "Decrease amount",
+		"chest_remove_increase": "Increase amount",
+		"chest_remove_max": "(Max: $max$)",
 		"chest_empty": "Open chests or play on Events/travelling fair to collect data here.",
 		"chest_view_all": "Chests",
 		"chest_item_fallback": "Chest #$id$",
@@ -689,6 +705,7 @@
 		"chest_event_octoberfest": "Oktoberfest",
 		"chest_event_dotd": "Day of the Dead",
 		"chest_wof_spins_summary": "$free$ free · $paid$ paid · $total$ total",
+		"chest_wof_dotd_failures": "Failed games: $count$ · Cempasúchil from failures: $flowers$",
 		"chest_wof_paid_line": "Paid spins: $parts$",
 		"chest_wof_spent_line": "Spent: $parts$",
 		"chest_wof_bribe_line": "Bribes: $count$× · $parts$",
@@ -963,6 +980,8 @@
 		"task_build": "Build",
 		"trader_now": "now",
 		"center_job": "Click to center on map",
+		"open_event": "Click to open event",
+		"open_item_popup": "Click to show item details",
 		"task_row": "$current$/$total$ — $title$",
 		"source_friends": "Friends",
 		"source_friend": "Friend",
@@ -1011,6 +1030,17 @@
 		"open_import": "Open battle import on WestForts",
 		"close_import": "Close battle import on WestForts",
 		"button_label": "West Forts"
+	},
+	"fortbattle_replay_ui": {
+		"title": "Fort battle replay",
+		"mini": "Replay",
+		"fort": "Fort",
+		"play": "Play",
+		"pause": "Pause",
+		"round": "Round",
+		"unavailable": "Replay data is unavailable for this battle.",
+		"load_error": "Could not load battle replay.",
+		"button": "▶ Replay battle"
 	},
 	"fortbattle_popup": {
 		"player": "Player",

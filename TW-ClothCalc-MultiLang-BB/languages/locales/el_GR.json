@@ -16,6 +16,14 @@
 		"edit": "Επεξεργασία",
 		"search": "Αναζήτηση"
 	},
+	"daily_exp": {
+		"title": "Ημερήσια εμπειρία",
+		"badge_title": "Εμπειρία που κερδήθηκε σήμερα. Πάτησε για ανάλυση ανά πηγή.",
+		"day": "Ημέρα", "today": "Σήμερα", "total": "Σύνολο", "source": "Πηγή", "count": "Πλήθος",
+		"experience": "Εμπειρία", "start": "Από", "now": "Τώρα", "empty": "Δεν καταγράφηκε εμπειρία για αυτήν την ημέρα.",
+		"job": "Εργασίες", "duel": "Μονομαχίες παικτών", "npc": "Μονομαχίες ληστών", "bonus": "Ημερήσιο μπόνους",
+		"quest": "Αποστολές", "fort": "Μάχες οχυρών", "other": "Άλλα", "offline": "Εκτός σύνδεσης"
+	},
 	"misc": {
 		"notes_title": "Σημειώσεις",
 		"color_dialog_bold": "έντονα",
@@ -145,6 +153,7 @@
 		"twdb_title_with": "TW-DB.info - $title$"
 	},
 	"settings": {
+		"daily_exp": "Καταγραφή ημερήσιας εμπειρίας ανά πηγή",
 		"save_to_reload": "Πατώντας το \"Ok\" θα γίνει αυτόματη ανανέωση της σελίδας για να εφαρμοστούν οι αλλαγές σας.",
 		"title": "Ρυθμίσεις",
 		"conflicts_hint": "Τα αλληλοσυγκρουόμενα userscripts εμφανίζονται σε [color=#c00]κόκκινο[/color]",
@@ -213,6 +222,7 @@
 		"fortbattle_declare_reports": "Σύνδεση της αναφοράς ξεθαψίματος τσεκουριού μάχης στο συγκεκριμένο οχυρό επίθεσης",
 		"forts_owned": "Ιδιοκτησία Οχυρών στο προφίλ των πόλεων (απενεργοποιεί Toolkit owned_forts όσο είναι ενεργό)",
 		"fortbattle_cemetery_criticals": "Κρίσιμα χτυπήματα και Γύρες με Φάντασμα στο νεκροταφείο οχυρού (απενεργοποιεί Toolkit critical_hits όσο είναι ενεργό)",
+		"fortbattle_replay": "Επανάληψη παλιών μαχών οχυρού από το νεκροταφείο",
 		"fortbattle_total_dmg": "Συνολική προκαλούμενη ζημιά στην περιγραφή κάθε παίκτη κατά τη διάρκεια μάχης οχυρού (απενεργοποιεί Toolkit fb_info όσο είναι ενεργό)",
 		"fortbattle_round_info": "Εύστοχα χτυπήματα, άστοχες βολές, λαμβανόμενα χτυπήματα και αποφυγές βολών σε κάθε γύρο (απενεργοποιεί Toolkit fb_hits όσο είναι ενεργό)",
 		"fortbattle_player_colors": "Προσθήκη κουμπιών χρώματος/καθαρισμού στην καρτέλα πληροφοριών παίκτη της μάχης οχυρού",
@@ -676,6 +686,12 @@
 		"job_title_short": "Δουλειές",
 		"chest_title": "Αναλυτής Θηκών",
 		"chest_title_short": "Θήκες",
+		"chest_remove_title": "Αφαίρεση εγγραφών ανάλυσης θηκών",
+		"chest_remove_prompt": "Πόσες εγγραφές θέλετε να αφαιρέσετε;",
+		"chest_remove_invalid": "Πληκτρολογήστε ακέραιο αριθμό από 1 έως $max$.",
+		"chest_remove_decrease": "Μείωση ποσότητας",
+		"chest_remove_increase": "Αύξηση ποσότητας",
+		"chest_remove_max": "(Μέγιστο: $max$)",
 		"chest_empty": "Ανοίξτε θήκες ή παίξτε σε Εκδηλώσεις/Λούνα Παρκ για να συλλέξετε δεδομένα εδώ.",
 		"chest_view_all": "Θήκες",
 		"chest_item_fallback": "Θήκη #$id$",
@@ -689,6 +705,7 @@
 		"chest_event_octoberfest": "Οκτόμπερφεστ",
 		"chest_event_dotd": "Ημέρα των Νεκρών",
 		"chest_wof_spins_summary": "$free$ δωρεάν · $paid$ πληρωμένα · $total$ συνολικά",
+		"chest_wof_dotd_failures": "Αποτυχημένα παιχνίδια: $count$ · Cempasúchil από αποτυχίες: $flowers$",
 		"chest_wof_paid_line": "Πληρωμένα: $parts$",
 		"chest_wof_spent_line": "Ξοδεύτηκαν: $parts$",
 		"chest_wof_bribe_line": "Δωροδοκίες: $count$× · $parts$",
@@ -963,6 +980,10 @@
 		"task_build": "Κατασκευή",
 		"trader_now": "τώρα",
 		"center_job": "Κλικ για κεντράρισμα στον χάρτη",
+		"open_event": "Κλικ για άνοιγμα εκδήλωσης",
+		"open_trader": "Κλικ για άνοιγμα της περιήγησης εμπόρου",
+		"open_item_popup": "Κλικ για λεπτομέρειες αντικειμένου",
+		"use_item": "Κλικ για χρήση αντικειμένου",
 		"task_row": "$current$/$total$ — $title$",
 		"source_friends": "Φίλοι",
 		"source_friend": "Φίλος",
@@ -1011,6 +1032,17 @@
 		"open_import": "Άνοιγμα εισαγωγής μαχών στο WestForts",
 		"close_import": "Κλείσιμο εισαγωγής μαχών στο WestForts",
 		"button_label": "West Forts"
+	},
+	"fortbattle_replay_ui": {
+		"title": "Επανάληψη μάχης οχυρού",
+		"mini": "Επανάληψη",
+		"fort": "Οχυρό",
+		"play": "Έναρξη",
+		"pause": "Παύση",
+		"round": "Γύρος",
+		"unavailable": "Δεν υπάρχουν διαθέσιμα δεδομένα επανάληψης για αυτή τη μάχη.",
+		"load_error": "Δεν ήταν δυνατή η φόρτωση της επανάληψης.",
+		"button": "▶ Επανάληψη μάχης"
 	},
 	"fortbattle_popup": {
 		"player": "Παίκτης",

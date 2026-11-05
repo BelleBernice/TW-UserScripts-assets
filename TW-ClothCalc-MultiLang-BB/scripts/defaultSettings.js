@@ -351,6 +351,12 @@ registerSetting({
 	defaultValue: false,
 })
 registerSetting({
+	id: "fortbattle_replay",
+	langKey: "settings.fortbattle_replay",
+	defaultValue: false,
+	apply: "instant",
+})
+registerSetting({
 	id: "fortbattle_total_dmg",
 	langKey: "settings.fortbattle_total_dmg",
 	defaultValue: false,
@@ -805,6 +811,11 @@ registerSetting({
 	id: "exp_bar",
 	langKey: "settings.exp_bar",
 	defaultValue: true,
+})
+registerSetting({
+	id: "daily_exp",
+	langKey: "settings.daily_exp",
+	defaultValue: false,
 })
 registerSetting({
 	id: "custom_event_counter",
