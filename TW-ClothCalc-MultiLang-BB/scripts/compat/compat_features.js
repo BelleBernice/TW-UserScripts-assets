@@ -1,4 +1,4 @@
-/* twdb compat pack "features" generated 2026-11-05T09:35:00.212Z — do not edit; from Compat/packs/features.js */
+/* twdb compat pack "features" generated 2026-11-08T18:18:30.332Z — do not edit; from Compat/packs/features.js */
 /**
  * Compat pack: features (lazy on prod/beta; embedded on dev).
  */

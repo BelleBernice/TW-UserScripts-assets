@@ -5828,74 +5828,74 @@
 	"dod_2026_set_1": {
 		"event": "dotd",
 		"year": 2026,
-		"source": "regex",
-		"needsReview": true,
-		"locked": false,
-		"winner": false
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
 	},
 	"dod_2026_set_2": {
 		"event": "dotd",
 		"year": 2026,
-		"source": "regex",
-		"needsReview": true,
-		"locked": false,
-		"winner": false
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
 	},
 	"dod_2026_set_3": {
 		"event": "dotd",
 		"year": 2026,
-		"source": "regex",
-		"needsReview": true,
-		"locked": false,
-		"winner": false
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
 	},
 	"dod_2026_set_4": {
 		"event": "dotd",
 		"year": 2026,
-		"source": "regex",
-		"needsReview": true,
-		"locked": false,
-		"winner": false
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
 	},
 	"dod_2026_set_5": {
 		"event": "dotd",
 		"year": 2026,
-		"source": "regex",
-		"needsReview": true,
-		"locked": false,
-		"winner": false
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
 	},
 	"dod_2026_set_6": {
 		"event": "dotd",
 		"year": 2026,
-		"source": "regex",
-		"needsReview": true,
-		"locked": false,
-		"winner": false
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
 	},
 	"dod_2026_set_7": {
 		"event": "dotd",
 		"year": 2026,
-		"source": "regex",
-		"needsReview": true,
-		"locked": false,
-		"winner": false
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
 	},
 	"dod_2026_set_8": {
 		"event": "dotd",
 		"year": 2026,
-		"source": "regex",
-		"needsReview": true,
-		"locked": false,
-		"winner": false
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
 	},
 	"dod_2026_set_9": {
 		"event": "dotd",
 		"year": 2026,
-		"source": "regex",
-		"needsReview": true,
-		"locked": false,
-		"winner": false
+		"winner": false,
+		"source": "manual",
+		"needsReview": false,
+		"locked": true
 	},
 	"holiday_2026_set_1": {
 		"event": "xmas",
